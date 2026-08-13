@@ -1,0 +1,370 @@
+
+
+=== RX BOOT - FRAME MODE ===
+MOD=BFSK (10/20 kHz) BPS_MODE=100
+RX: edge-tracking sync, center-3 voting
+Starting decoder...
+
+RX: wins=2500 ok=0 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=179966 p20_avg=485808 p_noise_avg=2822 SNR_real=22.4 dB SNR_tone=4.3 dB
+FRAME OK seq=0 len=2 120 mg/dL [ok=1 fail=0 gaps=0]
+PKT,8078,0,120,1,0,0
+RX: wins=5000 ok=1 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=67057 p20_avg=430044 p_noise_avg=3404 SNR_real=21.0 dB SNR_tone=8.1 dB
+FRAME OK seq=1 len=2 120 mg/dL [ok=2 fail=0 gaps=0]
+PKT,12570,1,120,2,0,0
+RX: wins=7500 ok=2 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=64138 p20_avg=438206 p_noise_avg=3320 SNR_real=21.2 dB SNR_tone=8.3 dB
+FRAME OK seq=2 len=2 120 mg/dL [ok=3 fail=0 gaps=0]
+PKT,17062,2,120,3,0,0
+RX: wins=10000 ok=3 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=46012 p20_avg=286296 p_noise_avg=4085 SNR_real=18.5 dB SNR_tone=7.9 dB
+FRAME OK seq=3 len=2 120 mg/dL [ok=4 fail=0 gaps=0]
+PKT,21554,3,120,4,0,0
+RX: wins=12500 ok=4 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=64804 p20_avg=423103 p_noise_avg=3130 SNR_real=21.3 dB SNR_tone=8.1 dB
+FRAME OK seq=4 len=2 120 mg/dL [ok=5 fail=0 gaps=0]
+PKT,26046,4,120,5,0,0
+RX: wins=15000 ok=5 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=68183 p20_avg=411120 p_noise_avg=3147 SNR_real=21.2 dB SNR_tone=7.8 dB
+FRAME OK seq=5 len=2 120 mg/dL [ok=6 fail=0 gaps=0]
+PKT,30540,5,120,6,0,0
+RX: wins=17500 ok=6 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=59841 p20_avg=402567 p_noise_avg=3419 SNR_real=20.7 dB SNR_tone=8.3 dB
+FRAME OK seq=6 len=2 120 mg/dL [ok=7 fail=0 gaps=0]
+PKT,35030,6,120,7,0,0
+FRAME OK seq=7 len=2 120 mg/dL [ok=8 fail=0 gaps=0]
+PKT,39524,7,120,8,0,0
+RX: wins=20000 ok=8 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=64268 p20_avg=418630 p_noise_avg=3348 SNR_real=21.0 dB SNR_tone=8.1 dB
+FRAME OK seq=8 len=2 120 mg/dL [ok=9 fail=0 gaps=0]
+PKT,44016,8,120,9,0,0
+RX: wins=22500 ok=9 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=63441 p20_avg=401225 p_noise_avg=3130 SNR_real=21.1 dB SNR_tone=8.0 dB
+FRAME OK seq=9 len=2 120 mg/dL [ok=10 fail=0 gaps=0]
+PKT,48508,9,120,10,0,0
+RX: wins=25000 ok=10 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=48320 p20_avg=386926 p_noise_avg=3149 SNR_real=20.9 dB SNR_tone=9.0 dB
+FRAME OK seq=10 len=2 120 mg/dL [ok=11 fail=0 gaps=0]
+PKT,53000,10,120,11,0,0
+RX: wins=27500 ok=11 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=54272 p20_avg=380290 p_noise_avg=2881 SNR_real=21.2 dB SNR_tone=8.5 dB
+FRAME OK seq=11 len=2 120 mg/dL [ok=12 fail=0 gaps=0]
+PKT,57492,11,120,12,0,0
+RX: wins=30000 ok=12 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=61099 p20_avg=362093 p_noise_avg=2976 SNR_real=20.9 dB SNR_tone=7.7 dB
+FRAME OK seq=12 len=2 120 mg/dL [ok=13 fail=0 gaps=0]
+PKT,61986,12,120,13,0,0
+RX: wins=32500 ok=13 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=64351 p20_avg=365746 p_noise_avg=2891 SNR_real=21.0 dB SNR_tone=7.5 dB
+FRAME OK seq=13 len=2 120 mg/dL [ok=14 fail=0 gaps=0]
+PKT,66476,13,120,14,0,0
+RX: wins=35000 ok=14 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=62634 p20_avg=346283 p_noise_avg=2901 SNR_real=20.8 dB SNR_tone=7.4 dB
+FRAME OK seq=14 len=2 120 mg/dL [ok=15 fail=0 gaps=0]
+PKT,70970,14,120,15,0,0
+RX: wins=37500 ok=15 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=58181 p20_avg=343079 p_noise_avg=2653 SNR_real=21.1 dB SNR_tone=7.7 dB
+FRAME OK seq=15 len=2 120 mg/dL [ok=16 fail=0 gaps=0]
+PKT,75462,15,120,16,0,0
+FRAME OK seq=16 len=2 120 mg/dL [ok=17 fail=0 gaps=0]
+PKT,79954,16,120,17,0,0
+RX: wins=40000 ok=17 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=54889 p20_avg=329100 p_noise_avg=2985 SNR_real=20.4 dB SNR_tone=7.8 dB
+FRAME OK seq=17 len=2 120 mg/dL [ok=18 fail=0 gaps=0]
+PKT,84446,17,120,18,0,0
+RX: wins=42500 ok=18 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=50031 p20_avg=325387 p_noise_avg=2778 SNR_real=20.7 dB SNR_tone=8.1 dB
+FRAME OK seq=18 len=2 120 mg/dL [ok=19 fail=0 gaps=0]
+PKT,88938,18,120,19,0,0
+RX: wins=45000 ok=19 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=46969 p20_avg=313495 p_noise_avg=2863 SNR_real=20.4 dB SNR_tone=8.2 dB
+FRAME OK seq=19 len=2 120 mg/dL [ok=20 fail=0 gaps=0]
+PKT,93430,19,120,20,0,0
+RX: wins=47500 ok=20 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=42388 p20_avg=316140 p_noise_avg=2768 SNR_real=20.6 dB SNR_tone=8.7 dB
+FRAME OK seq=20 len=2 120 mg/dL [ok=21 fail=0 gaps=0]
+PKT,97922,20,120,21,0,0
+RX: wins=50000 ok=21 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=40758 p20_avg=307357 p_noise_avg=2767 SNR_real=20.5 dB SNR_tone=8.8 dB
+FRAME OK seq=21 len=2 120 mg/dL [ok=22 fail=0 gaps=0]
+PKT,102414,21,120,22,0,0
+RX: wins=52500 ok=22 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=40316 p20_avg=296416 p_noise_avg=2745 SNR_real=20.3 dB SNR_tone=8.7 dB
+FRAME OK seq=22 len=2 120 mg/dL [ok=23 fail=0 gaps=0]
+PKT,106908,22,120,23,0,0
+RX: wins=55000 ok=23 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=39297 p20_avg=287637 p_noise_avg=2864 SNR_real=20.0 dB SNR_tone=8.6 dB
+CRC FAIL rx=2EAB calc=BF23 [fail=1]
+PKTFAIL,111400,23,23,1
+RX: wins=57500 ok=23 fail=1 gaps=0 bit=1 st=3 sync=1
+    p10_avg=38447 p20_avg=278985 p_noise_avg=2828 SNR_real=19.9 dB SNR_tone=8.6 dB
+FRAME OK seq=24 len=2 120 mg/dL [ok=24 fail=1 gaps=0]
+SEQ GAP 22->24
+PKT,115892,24,120,24,1,1
+RX: wins=60000 ok=24 fail=1 gaps=1 bit=1 st=4 sync=1
+    p10_avg=38677 p20_avg=273286 p_noise_avg=2720 SNR_real=20.0 dB SNR_tone=8.5 dB
+CRC FAIL rx=35D5 calc=35AA [fail=2]
+PKTFAIL,120384,25,24,2
+FRAME OK seq=26 len=2 120 mg/dL [ok=25 fail=2 gaps=1]
+SEQ GAP 24->26
+PKT,124876,26,120,25,2,2
+RX: wins=62500 ok=25 fail=2 gaps=2 bit=1 st=0 sync=1
+    p10_avg=35236 p20_avg=280835 p_noise_avg=2696 SNR_real=20.2 dB SNR_tone=9.0 dB
+FRAME OK seq=27 len=2 120 mg/dL [ok=26 fail=2 gaps=2]
+PKT,129368,27,120,26,2,2
+RX: wins=65000 ok=26 fail=2 gaps=2 bit=0 st=0 sync=1
+    p10_avg=34649 p20_avg=278411 p_noise_avg=2847 SNR_real=19.9 dB SNR_tone=9.0 dB
+FRAME OK seq=28 len=2 120 mg/dL [ok=27 fail=2 gaps=2]
+PKT,133860,28,120,27,2,2
+RX: wins=67500 ok=27 fail=2 gaps=2 bit=0 st=0 sync=1
+    p10_avg=33288 p20_avg=276427 p_noise_avg=2698 SNR_real=20.1 dB SNR_tone=9.2 dB
+FRAME OK seq=29 len=2 120 mg/dL [ok=28 fail=2 gaps=2]
+PKT,138354,29,120,28,2,2
+RX: wins=70000 ok=28 fail=2 gaps=2 bit=1 st=0 sync=1
+    p10_avg=33961 p20_avg=272446 p_noise_avg=2783 SNR_real=19.9 dB SNR_tone=9.0 dB
+FRAME OK seq=30 len=2 120 mg/dL [ok=29 fail=2 gaps=2]
+PKT,142846,30,120,29,2,2
+RX: wins=72500 ok=29 fail=2 gaps=2 bit=1 st=0 sync=1
+    p10_avg=32190 p20_avg=263469 p_noise_avg=2728 SNR_real=19.8 dB SNR_tone=9.1 dB
+FRAME OK seq=31 len=2 120 mg/dL [ok=30 fail=2 gaps=2]
+PKT,147338,31,120,30,2,2
+RX: wins=75000 ok=30 fail=2 gaps=2 bit=1 st=0 sync=1
+    p10_avg=31172 p20_avg=258389 p_noise_avg=2624 SNR_real=19.9 dB SNR_tone=9.2 dB
+FRAME OK seq=32 len=2 120 mg/dL [ok=31 fail=2 gaps=2]
+PKT,151830,32,120,31,2,2
+RX: wins=77500 ok=31 fail=2 gaps=2 bit=1 st=0 sync=1
+    p10_avg=29721 p20_avg=259773 p_noise_avg=2710 SNR_real=19.8 dB SNR_tone=9.4 dB
+RX: wins=80000 ok=31 fail=2 gaps=2 bit=1 st=3 sync=1
+    p10_avg=27932 p20_avg=251740 p_noise_avg=2645 SNR_real=19.8 dB SNR_tone=9.5 dB
+CRC FAIL rx=00FE calc=DA6E [fail=3]
+PKTFAIL,160814,34,31,3
+RX: wins=82500 ok=31 fail=3 gaps=2 bit=0 st=0 sync=1
+    p10_avg=26975 p20_avg=251284 p_noise_avg=2771 SNR_real=19.6 dB SNR_tone=9.7 dB
+FRAME OK seq=36 len=2 120 mg/dL [ok=32 fail=3 gaps=2]
+SEQ GAP 32->36
+PKT,169798,36,120,32,3,3
+RX: wins=85000 ok=32 fail=3 gaps=3 bit=1 st=0 sync=1
+    p10_avg=25322 p20_avg=258782 p_noise_avg=2531 SNR_real=20.1 dB SNR_tone=10.1 dB
+RX: wins=87500 ok=32 fail=3 gaps=3 bit=1 st=0 sync=1
+    p10_avg=25517 p20_avg=251451 p_noise_avg=2784 SNR_real=19.6 dB SNR_tone=9.9 dB
+FRAME OK seq=38 len=2 120 mg/dL [ok=33 fail=3 gaps=3]
+SEQ GAP 36->38
+PKT,178784,38,120,33,3,4
+RX: wins=90000 ok=33 fail=3 gaps=4 bit=0 st=0 sync=1
+    p10_avg=24478 p20_avg=254298 p_noise_avg=2748 SNR_real=19.7 dB SNR_tone=10.2 dB
+RX: wins=92500 ok=33 fail=3 gaps=4 bit=1 st=0 sync=1
+    p10_avg=23696 p20_avg=253170 p_noise_avg=2763 SNR_real=19.6 dB SNR_tone=10.3 dB
+FRAME OK seq=40 len=2 120 mg/dL [ok=34 fail=3 gaps=4]
+SEQ GAP 38->40
+PKT,187768,40,120,34,3,5
+RX: wins=95000 ok=34 fail=3 gaps=5 bit=0 st=0 sync=1
+    p10_avg=23383 p20_avg=255165 p_noise_avg=2769 SNR_real=19.6 dB SNR_tone=10.4 dB
+CRC FAIL rx=F00F calc=A399 [fail=4]
+PKTFAIL,192260,229,34,4
+RX: wins=97500 ok=34 fail=4 gaps=5 bit=1 st=0 sync=1
+    p10_avg=24012 p20_avg=247578 p_noise_avg=2811 SNR_real=19.4 dB SNR_tone=10.1 dB
+FRAME OK seq=42 len=2 120 mg/dL [ok=35 fail=4 gaps=5]
+SEQ GAP 40->42
+PKT,196752,42,120,35,4,6
+RX: wins=100000 ok=35 fail=4 gaps=6 bit=1 st=1 sync=1
+    p10_avg=23681 p20_avg=250027 p_noise_avg=2699 SNR_real=19.7 dB SNR_tone=10.2 dB
+FRAME OK seq=43 len=2 120 mg/dL [ok=36 fail=4 gaps=6]
+PKT,201244,43,120,36,4,6
+RX: wins=102500 ok=36 fail=4 gaps=6 bit=1 st=3 sync=1
+    p10_avg=23706 p20_avg=244231 p_noise_avg=2641 SNR_real=19.7 dB SNR_tone=10.1 dB
+FRAME OK seq=44 len=2 120 mg/dL [ok=37 fail=4 gaps=6]
+PKT,205736,44,120,37,4,6
+RX: wins=105000 ok=37 fail=4 gaps=6 bit=1 st=0 sync=1
+    p10_avg=23949 p20_avg=247714 p_noise_avg=2812 SNR_real=19.4 dB SNR_tone=10.1 dB
+FRAME OK seq=46 len=2 120 mg/dL [ok=38 fail=4 gaps=6]
+SEQ GAP 44->46
+PKT,214722,46,120,38,4,7
+RX: wins=107500 ok=38 fail=4 gaps=7 bit=0 st=0 sync=1
+    p10_avg=22761 p20_avg=250498 p_noise_avg=2702 SNR_real=19.7 dB SNR_tone=10.4 dB
+FRAME OK seq=47 len=2 120 mg/dL [ok=39 fail=4 gaps=7]
+PKT,219214,47,120,39,4,7
+RX: wins=110000 ok=39 fail=4 gaps=7 bit=1 st=0 sync=1
+    p10_avg=23263 p20_avg=241598 p_noise_avg=2635 SNR_real=19.6 dB SNR_tone=10.2 dB
+FRAME OK seq=48 len=2 120 mg/dL [ok=40 fail=4 gaps=7]
+PKT,223706,48,120,40,4,7
+RX: wins=112500 ok=40 fail=4 gaps=7 bit=1 st=0 sync=1
+    p10_avg=23013 p20_avg=239796 p_noise_avg=2904 SNR_real=19.2 dB SNR_tone=10.2 dB
+RX: wins=115000 ok=40 fail=4 gaps=7 bit=1 st=0 sync=1
+    p10_avg=22847 p20_avg=240095 p_noise_avg=2554 SNR_real=19.7 dB SNR_tone=10.2 dB
+CRC FAIL rx=ECBD calc=439D [fail=5]
+PKTFAIL,232722,50,40,5
+RX: wins=117500 ok=40 fail=5 gaps=7 bit=1 st=0 sync=1
+    p10_avg=22085 p20_avg=239868 p_noise_avg=2731 SNR_real=19.4 dB SNR_tone=10.4 dB
+FRAME OK seq=51 len=2 120 mg/dL [ok=41 fail=5 gaps=7]
+SEQ GAP 48->51
+PKT,237182,51,120,41,5,8
+RX: wins=120000 ok=41 fail=5 gaps=8 bit=0 st=0 sync=1
+    p10_avg=21496 p20_avg=239836 p_noise_avg=2743 SNR_real=19.4 dB SNR_tone=10.5 dB
+FRAME OK seq=52 len=2 120 mg/dL [ok=42 fail=5 gaps=8]
+PKT,241676,52,120,42,5,8
+RX: wins=122500 ok=42 fail=5 gaps=8 bit=0 st=1 sync=1
+    p10_avg=21046 p20_avg=234410 p_noise_avg=2809 SNR_real=19.2 dB SNR_tone=10.5 dB
+FRAME OK seq=53 len=2 120 mg/dL [ok=43 fail=5 gaps=8]
+PKT,246168,53,120,43,5,8
+RX: wins=125000 ok=43 fail=5 gaps=8 bit=0 st=4 sync=1
+    p10_avg=22604 p20_avg=232486 p_noise_avg=2669 SNR_real=19.4 dB SNR_tone=10.1 dB
+FRAME OK seq=54 len=2 120 mg/dL [ok=44 fail=5 gaps=8]
+PKT,250660,54,120,44,5,8
+RX: wins=127500 ok=44 fail=5 gaps=8 bit=1 st=0 sync=1
+    p10_avg=22278 p20_avg=234209 p_noise_avg=2803 SNR_real=19.2 dB SNR_tone=10.2 dB
+FRAME OK seq=56 len=2 120 mg/dL [ok=45 fail=5 gaps=8]
+SEQ GAP 54->56
+PKT,259644,56,120,45,5,9
+RX: wins=130000 ok=45 fail=5 gaps=9 bit=1 st=0 sync=1
+    p10_avg=21373 p20_avg=231532 p_noise_avg=2667 SNR_real=19.4 dB SNR_tone=10.3 dB
+FRAME OK seq=57 len=2 120 mg/dL [ok=46 fail=5 gaps=9]
+PKT,264136,57,120,46,5,9
+RX: wins=132500 ok=46 fail=5 gaps=9 bit=1 st=0 sync=1
+    p10_avg=20367 p20_avg=231224 p_noise_avg=2479 SNR_real=19.7 dB SNR_tone=10.6 dB
+CRC FAIL rx=F53C calc=EA3C [fail=6]
+PKTFAIL,268638,58,46,6
+RX: wins=135000 ok=46 fail=6 gaps=9 bit=0 st=0 sync=1
+    p10_avg=19749 p20_avg=231671 p_noise_avg=2914 SNR_real=19.0 dB SNR_tone=10.7 dB
+FRAME OK seq=59 len=2 120 mg/dL [ok=47 fail=6 gaps=9]
+SEQ GAP 57->59
+PKT,273122,59,120,47,6,10
+RX: wins=137500 ok=47 fail=6 gaps=10 bit=0 st=0 sync=1
+    p10_avg=21657 p20_avg=231139 p_noise_avg=2697 SNR_real=19.3 dB SNR_tone=10.3 dB
+RX: wins=140000 ok=47 fail=6 gaps=10 bit=0 st=0 sync=1
+    p10_avg=21866 p20_avg=235750 p_noise_avg=2757 SNR_real=19.3 dB SNR_tone=10.3 dB
+RX: wins=142500 ok=47 fail=6 gaps=10 bit=1 st=0 sync=1
+    p10_avg=20197 p20_avg=237578 p_noise_avg=2698 SNR_real=19.4 dB SNR_tone=10.7 dB
+FRAME OK seq=62 len=2 120 mg/dL [ok=48 fail=6 gaps=10]
+SEQ GAP 59->62
+PKT,286598,62,120,48,6,11
+RX: wins=145000 ok=48 fail=6 gaps=11 bit=1 st=1 sync=1
+    p10_avg=19649 p20_avg=229566 p_noise_avg=2694 SNR_real=19.3 dB SNR_tone=10.7 dB
+RX: wins=147500 ok=48 fail=6 gaps=11 bit=1 st=4 sync=1
+    p10_avg=21282 p20_avg=222064 p_noise_avg=2749 SNR_real=19.1 dB SNR_tone=10.2 dB
+FRAME OK seq=64 len=2 120 mg/dL [ok=49 fail=6 gaps=11]
+SEQ GAP 62->64
+PKT,295582,64,120,49,6,12
+RX: wins=150000 ok=49 fail=6 gaps=12 bit=0 st=6 sync=1
+    p10_avg=21044 p20_avg=229267 p_noise_avg=2649 SNR_real=19.4 dB SNR_tone=10.4 dB
+FRAME OK seq=65 len=2 120 mg/dL [ok=50 fail=6 gaps=12]
+PKT,300076,65,120,50,6,12
+RX: wins=152500 ok=50 fail=6 gaps=12 bit=0 st=5 sync=1
+    p10_avg=18883 p20_avg=231598 p_noise_avg=2744 SNR_real=19.3 dB SNR_tone=10.9 dB
+CRC FAIL rx=5555 calc=CA12 [fail=7]
+PKTFAIL,305276,161,50,7
+RX: wins=155000 ok=50 fail=7 gaps=12 bit=1 st=0 sync=1
+    p10_avg=19383 p20_avg=225233 p_noise_avg=2640 SNR_real=19.3 dB SNR_tone=10.7 dB
+RX: wins=157500 ok=50 fail=7 gaps=12 bit=1 st=4 sync=1
+    p10_avg=20470 p20_avg=220397 p_noise_avg=2592 SNR_real=19.3 dB SNR_tone=10.3 dB
+RX: wins=160000 ok=50 fail=7 gaps=12 bit=1 st=4 sync=1
+    p10_avg=19375 p20_avg=220280 p_noise_avg=2593 SNR_real=19.3 dB SNR_tone=10.6 dB
+RX: wins=162500 ok=50 fail=7 gaps=12 bit=1 st=4 sync=1
+    p10_avg=19415 p20_avg=225559 p_noise_avg=2652 SNR_real=19.3 dB SNR_tone=10.7 dB
+CRC FAIL rx=D355 calc=97CD [fail=8]
+PKTFAIL,325768,120,50,8
+RX: wins=165000 ok=50 fail=8 gaps=12 bit=0 st=0 sync=1
+    p10_avg=19025 p20_avg=224371 p_noise_avg=2632 SNR_real=19.3 dB SNR_tone=10.7 dB
+RX: wins=167500 ok=50 fail=8 gaps=12 bit=0 st=2 sync=1
+    p10_avg=19871 p20_avg=223167 p_noise_avg=2783 SNR_real=19.0 dB SNR_tone=10.5 dB
+RX: wins=170000 ok=50 fail=8 gaps=12 bit=1 st=0 sync=1
+    p10_avg=19859 p20_avg=220349 p_noise_avg=2747 SNR_real=19.0 dB SNR_tone=10.5 dB
+RX: wins=172500 ok=50 fail=8 gaps=12 bit=1 st=0 sync=1
+    p10_avg=20189 p20_avg=213331 p_noise_avg=2505 SNR_real=19.3 dB SNR_tone=10.2 dB
+RX: wins=175000 ok=50 fail=8 gaps=12 bit=1 st=0 sync=1
+    p10_avg=16836 p20_avg=187581 p_noise_avg=7126 SNR_real=14.2 dB SNR_tone=10.5 dB
+RX: wins=177500 ok=50 fail=8 gaps=12 bit=0 st=0 sync=1
+    p10_avg=12817 p20_avg=117896 p_noise_avg=3237 SNR_real=15.6 dB SNR_tone=9.6 dB
+FRAME OK seq=78 len=2 120 mg/dL [ok=51 fail=8 gaps=12]
+SEQ GAP 65->78
+PKT,358474,78,120,51,8,13
+RX: wins=180000 ok=51 fail=8 gaps=13 bit=1 st=0 sync=1
+    p10_avg=20559 p20_avg=235882 p_noise_avg=2666 SNR_real=19.5 dB SNR_tone=10.6 dB
+RX: wins=182500 ok=51 fail=8 gaps=13 bit=0 st=0 sync=1
+    p10_avg=19434 p20_avg=231640 p_noise_avg=2557 SNR_real=19.6 dB SNR_tone=10.8 dB
+FRAME OK seq=80 len=2 120 mg/dL [ok=52 fail=8 gaps=13]
+SEQ GAP 78->80
+PKT,367458,80,120,52,8,14
+RX: wins=185000 ok=52 fail=8 gaps=14 bit=1 st=0 sync=1
+    p10_avg=20262 p20_avg=228934 p_noise_avg=2704 SNR_real=19.3 dB SNR_tone=10.5 dB
+RX: wins=187500 ok=52 fail=8 gaps=14 bit=1 st=0 sync=1
+    p10_avg=19539 p20_avg=221520 p_noise_avg=2679 SNR_real=19.2 dB SNR_tone=10.5 dB
+RX: wins=190000 ok=52 fail=8 gaps=14 bit=0 st=2 sync=1
+    p10_avg=60496 p20_avg=565462 p_noise_avg=2374 SNR_real=23.8 dB SNR_tone=9.7 dB
+FRAME OK seq=83 len=2 120 mg/dL [ok=53 fail=8 gaps=14]
+SEQ GAP 80->83
+PKT,380936,83,120,53,8,15
+RX: wins=192500 ok=53 fail=8 gaps=15 bit=0 st=4 sync=1
+    p10_avg=86509 p20_avg=778524 p_noise_avg=1773 SNR_real=26.4 dB SNR_tone=9.5 dB
+FRAME OK seq=84 len=2 120 mg/dL [ok=54 fail=8 gaps=15]
+PKT,385428,84,120,54,8,15
+FRAME OK seq=85 len=2 120 mg/dL [ok=55 fail=8 gaps=15]
+PKT,389920,85,120,55,8,15
+RX: wins=195000 ok=55 fail=8 gaps=15 bit=1 st=0 sync=1
+    p10_avg=42752 p20_avg=405529 p_noise_avg=2726 SNR_real=21.7 dB SNR_tone=9.8 dB
+FRAME OK seq=86 len=2 120 mg/dL [ok=56 fail=8 gaps=15]
+PKT,394412,86,120,56,8,15
+RX: wins=197500 ok=56 fail=8 gaps=15 bit=0 st=0 sync=1
+    p10_avg=20092 p20_avg=224435 p_noise_avg=2910 SNR_real=18.9 dB SNR_tone=10.5 dB
+FRAME OK seq=87 len=2 120 mg/dL [ok=57 fail=8 gaps=15]
+PKT,398904,87,120,57,8,15
+RX: wins=200000 ok=57 fail=8 gaps=15 bit=1 st=0 sync=1
+    p10_avg=35193 p20_avg=308817 p_noise_avg=3319 SNR_real=19.7 dB SNR_tone=9.4 dB
+CRC FAIL rx=1F37 calc=8EBF [fail=9]
+PKTFAIL,403396,88,57,9
+RX: wins=202500 ok=57 fail=9 gaps=15 bit=1 st=0 sync=1
+    p10_avg=24199 p20_avg=243641 p_noise_avg=3021 SNR_real=19.1 dB SNR_tone=10.0 dB
+RX: wins=205000 ok=57 fail=9 gaps=15 bit=0 st=0 sync=1
+    p10_avg=27422 p20_avg=268149 p_noise_avg=3618 SNR_real=18.7 dB SNR_tone=9.9 dB
+FRAME OK seq=90 len=2 120 mg/dL [ok=58 fail=9 gaps=15]
+SEQ GAP 87->90
+PKT,412382,90,120,58,9,16
+RX: wins=207500 ok=58 fail=9 gaps=16 bit=0 st=0 sync=1
+    p10_avg=26060 p20_avg=274670 p_noise_avg=3226 SNR_real=19.3 dB SNR_tone=10.2 dB
+CRC FAIL rx=4667 calc=7D3D [fail=10]
+PKTFAIL,416874,219,58,10
+RX: wins=210000 ok=58 fail=10 gaps=16 bit=1 st=0 sync=1
+    p10_avg=18521 p20_avg=219986 p_noise_avg=2845 SNR_real=18.9 dB SNR_tone=10.7 dB
+RX: wins=212500 ok=58 fail=10 gaps=16 bit=1 st=3 sync=1
+    p10_avg=70348 p20_avg=655821 p_noise_avg=2115 SNR_real=24.9 dB SNR_tone=9.7 dB
+FRAME OK seq=93 len=2 120 mg/dL [ok=59 fail=10 gaps=16]
+SEQ GAP 90->93
+PKT,425858,93,120,59,10,17
+RX: wins=215000 ok=59 fail=10 gaps=17 bit=1 st=5 sync=1
+    p10_avg=91129 p20_avg=769134 p_noise_avg=1769 SNR_real=26.4 dB SNR_tone=9.3 dB
+FRAME OK seq=94 len=2 120 mg/dL [ok=60 fail=10 gaps=17]
+PKT,430350,94,120,60,10,17
+FRAME OK seq=95 len=2 120 mg/dL [ok=61 fail=10 gaps=17]
+PKT,434842,95,120,61,10,17
+RX: wins=217500 ok=61 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=82809 p20_avg=798832 p_noise_avg=1843 SNR_real=26.4 dB SNR_tone=9.8 dB
+FRAME OK seq=96 len=2 120 mg/dL [ok=62 fail=10 gaps=17]
+PKT,439334,96,120,62,10,17
+RX: wins=220000 ok=62 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=86184 p20_avg=782768 p_noise_avg=1800 SNR_real=26.4 dB SNR_tone=9.6 dB
+FRAME OK seq=97 len=2 120 mg/dL [ok=63 fail=10 gaps=17]
+PKT,443826,97,120,63,10,17
+RX: wins=222500 ok=63 fail=10 gaps=17 bit=0 st=0 sync=1
+    p10_avg=88728 p20_avg=780350 p_noise_avg=1733 SNR_real=26.5 dB SNR_tone=9.4 dB
+FRAME OK seq=98 len=2 120 mg/dL [ok=64 fail=10 gaps=17]
+PKT,448320,98,120,64,10,17
+RX: wins=225000 ok=64 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=89173 p20_avg=787377 p_noise_avg=1675 SNR_real=26.7 dB SNR_tone=9.5 dB
+FRAME OK seq=99 len=2 120 mg/dL [ok=65 fail=10 gaps=17]
+PKT,452812,99,120,65,10,17
+RX: wins=227500 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=48143 p20_avg=523563 p_noise_avg=2312 SNR_real=23.6 dB SNR_tone=10.4 dB
+RX: wins=230000 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1748 p20_avg=337697 p_noise_avg=2706 SNR_real=21.0 dB SNR_tone=22.9 dB
+RX: wins=232500 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1732 p20_avg=940475 p_noise_avg=2581 SNR_real=25.6 dB SNR_tone=27.3 dB
+RX: wins=235000 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1806 p20_avg=725082 p_noise_avg=2752 SNR_real=24.2 dB SNR_tone=26.0 dB
+RX: wins=237500 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1587 p20_avg=1269289 p_noise_avg=2232 SNR_real=27.5 dB SNR_tone=29.0 dB
+RX: wins=240000 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1525 p20_avg=1321571 p_noise_avg=2005 SNR_real=28.2 dB SNR_tone=29.4 dB
+RX: wins=242500 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1580 p20_avg=1316152 p_noise_avg=2105 SNR_real=28.0 dB SNR_tone=29.2 dB
+RX: wins=245000 ok=65 fail=10 gaps=17 bit=1 st=0 sync=1
+    p10_avg=1389 p20_avg=1389115 p_noise_avg=1806 SNR_real=28.9 dB SNR_tone=30.0 dB

@@ -1,0 +1,1111 @@
+
+
+=== RX BOOT - FRAME MODE ===
+MOD=BFSK (10/20 kHz) BPS_MODE=20
+RX: edge-tracking sync, center-3 voting
+Starting decoder...
+
+RX: wins=500 ok=0 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1190312192 p20_avg=2361108992 p_noise_avg=94188 SNR_real=44.0 dB SNR_tone=3.0 dB
+RX: wins=1000 ok=0 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=911339904 p20_avg=2168885760 p_noise_avg=120008 SNR_real=42.6 dB SNR_tone=3.8 dB
+RX: wins=1500 ok=0 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=972980928 p20_avg=2108728320 p_noise_avg=106661 SNR_real=43.0 dB SNR_tone=3.4 dB
+RX: wins=2000 ok=0 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=911890112 p20_avg=2171480832 p_noise_avg=106941 SNR_real=43.1 dB SNR_tone=3.8 dB
+RX: wins=2500 ok=0 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1379689472 p20_avg=1647827712 p_noise_avg=98998 SNR_real=42.2 dB SNR_tone=0.8 dB
+FRAME OK seq=0 len=2 120 mg/dL [ok=1 fail=0 gaps=0]
+PKT,25237,0,120,1,0,0
+RX: wins=3000 ok=1 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=968314944 p20_avg=2571829248 p_noise_avg=103074 SNR_real=44.0 dB SNR_tone=4.2 dB
+RX: wins=3500 ok=1 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1237182464 p20_avg=3708544768 p_noise_avg=68946 SNR_real=47.3 dB SNR_tone=4.8 dB
+RX: wins=4000 ok=1 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1313185408 p20_avg=3543752192 p_noise_avg=60498 SNR_real=47.7 dB SNR_tone=4.3 dB
+RX: wins=4500 ok=1 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1523378304 p20_avg=3328123392 p_noise_avg=67835 SNR_real=46.9 dB SNR_tone=3.4 dB
+FRAME OK seq=1 len=2 120 mg/dL [ok=2 fail=0 gaps=0]
+PKT,47297,1,120,2,0,0
+RX: wins=5000 ok=2 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1288204032 p20_avg=3598812160 p_noise_avg=79806 SNR_real=46.5 dB SNR_tone=4.5 dB
+RX: wins=5500 ok=2 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1287019136 p20_avg=3670152192 p_noise_avg=67135 SNR_real=47.4 dB SNR_tone=4.6 dB
+RX: wins=6000 ok=2 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1081585920 p20_avg=2619676672 p_noise_avg=88657 SNR_real=44.7 dB SNR_tone=3.8 dB
+RX: wins=6500 ok=2 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1001281984 p20_avg=2151337728 p_noise_avg=185889 SNR_real=40.6 dB SNR_tone=3.3 dB
+FRAME OK seq=2 len=2 120 mg/dL [ok=3 fail=0 gaps=0]
+PKT,69357,2,120,3,0,0
+RX: wins=7000 ok=3 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1207769088 p20_avg=1956578944 p_noise_avg=138937 SNR_real=41.5 dB SNR_tone=2.1 dB
+RX: wins=7500 ok=3 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1009199424 p20_avg=2093890304 p_noise_avg=104629 SNR_real=43.0 dB SNR_tone=3.2 dB
+RX: wins=8000 ok=3 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=903163072 p20_avg=2177494784 p_noise_avg=115017 SNR_real=42.8 dB SNR_tone=3.8 dB
+RX: wins=8500 ok=3 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1214248576 p20_avg=3281131008 p_noise_avg=84447 SNR_real=45.9 dB SNR_tone=4.3 dB
+RX: wins=9000 ok=3 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1336372224 p20_avg=2256199936 p_noise_avg=97546 SNR_real=43.6 dB SNR_tone=2.3 dB
+FRAME OK seq=3 len=2 120 mg/dL [ok=4 fail=0 gaps=0]
+PKT,91417,3,120,4,0,0
+RX: wins=9500 ok=4 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1016030720 p20_avg=2106572672 p_noise_avg=113322 SNR_real=42.7 dB SNR_tone=3.2 dB
+RX: wins=10000 ok=4 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=928352000 p20_avg=2099078656 p_noise_avg=116631 SNR_real=42.6 dB SNR_tone=3.5 dB
+RX: wins=10500 ok=4 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=904230912 p20_avg=2038305024 p_noise_avg=125962 SNR_real=42.1 dB SNR_tone=3.5 dB
+RX: wins=11000 ok=4 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1075231104 p20_avg=1923305728 p_noise_avg=118893 SNR_real=42.1 dB SNR_tone=2.5 dB
+FRAME OK seq=4 len=2 120 mg/dL [ok=5 fail=0 gaps=0]
+PKT,113477,4,120,5,0,0
+RX: wins=11500 ok=5 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1105254272 p20_avg=1960455808 p_noise_avg=114956 SNR_real=42.3 dB SNR_tone=2.5 dB
+RX: wins=12000 ok=5 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=972272896 p20_avg=2034209792 p_noise_avg=117325 SNR_real=42.4 dB SNR_tone=3.2 dB
+RX: wins=12500 ok=5 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=844982784 p20_avg=2113675520 p_noise_avg=119123 SNR_real=42.5 dB SNR_tone=4.0 dB
+RX: wins=13000 ok=5 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=977286336 p20_avg=2003184000 p_noise_avg=122411 SNR_real=42.1 dB SNR_tone=3.1 dB
+RX: wins=13500 ok=5 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1215518592 p20_avg=1845230336 p_noise_avg=111511 SNR_real=42.2 dB SNR_tone=1.8 dB
+FRAME OK seq=5 len=2 120 mg/dL [ok=6 fail=0 gaps=0]
+PKT,135537,5,120,6,0,0
+RX: wins=14000 ok=6 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=954561536 p20_avg=2053961984 p_noise_avg=118844 SNR_real=42.4 dB SNR_tone=3.3 dB
+RX: wins=14500 ok=6 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=900186880 p20_avg=2032865920 p_noise_avg=121162 SNR_real=42.2 dB SNR_tone=3.5 dB
+RX: wins=15000 ok=6 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=903470976 p20_avg=2062375936 p_noise_avg=121325 SNR_real=42.3 dB SNR_tone=3.6 dB
+RX: wins=15500 ok=6 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1091138304 p20_avg=1974966528 p_noise_avg=106956 SNR_real=42.7 dB SNR_tone=2.6 dB
+FRAME OK seq=6 len=2 120 mg/dL [ok=7 fail=0 gaps=0]
+PKT,157597,6,120,7,0,0
+RX: wins=16000 ok=7 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=987703936 p20_avg=2058241408 p_noise_avg=113053 SNR_real=42.6 dB SNR_tone=3.2 dB
+RX: wins=16500 ok=7 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=943703232 p20_avg=2008739584 p_noise_avg=112090 SNR_real=42.5 dB SNR_tone=3.3 dB
+RX: wins=17000 ok=7 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=847816448 p20_avg=2146285696 p_noise_avg=124840 SNR_real=42.4 dB SNR_tone=4.0 dB
+RX: wins=17500 ok=7 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1122440704 p20_avg=1957201792 p_noise_avg=116003 SNR_real=42.3 dB SNR_tone=2.4 dB
+FRAME OK seq=7 len=2 120 mg/dL [ok=8 fail=0 gaps=0]
+PKT,179657,7,120,8,0,0
+RX: wins=18000 ok=8 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1061903360 p20_avg=2005254656 p_noise_avg=115868 SNR_real=42.4 dB SNR_tone=2.8 dB
+RX: wins=18500 ok=8 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=865072512 p20_avg=2113236864 p_noise_avg=116911 SNR_real=42.6 dB SNR_tone=3.9 dB
+RX: wins=19000 ok=8 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=928970240 p20_avg=2055589376 p_noise_avg=123376 SNR_real=42.2 dB SNR_tone=3.4 dB
+RX: wins=19500 ok=8 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=939989504 p20_avg=2128349696 p_noise_avg=118976 SNR_real=42.5 dB SNR_tone=3.5 dB
+RX: wins=20000 ok=8 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1246495744 p20_avg=1807467776 p_noise_avg=112364 SNR_real=42.1 dB SNR_tone=1.6 dB
+FRAME OK seq=8 len=2 120 mg/dL [ok=9 fail=0 gaps=0]
+PKT,201717,8,120,9,0,0
+RX: wins=20500 ok=9 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=874989312 p20_avg=2132499584 p_noise_avg=114856 SNR_real=42.7 dB SNR_tone=3.9 dB
+RX: wins=21000 ok=9 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=944913408 p20_avg=2020566400 p_noise_avg=115944 SNR_real=42.4 dB SNR_tone=3.3 dB
+RX: wins=21500 ok=9 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=894755968 p20_avg=2162779392 p_noise_avg=119373 SNR_real=42.6 dB SNR_tone=3.8 dB
+RX: wins=22000 ok=9 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1143109248 p20_avg=1864484608 p_noise_avg=112381 SNR_real=42.2 dB SNR_tone=2.1 dB
+FRAME OK seq=9 len=2 120 mg/dL [ok=10 fail=0 gaps=0]
+PKT,223787,9,120,10,0,0
+RX: wins=22500 ok=10 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=987506752 p20_avg=2017829632 p_noise_avg=106951 SNR_real=42.8 dB SNR_tone=3.1 dB
+RX: wins=23000 ok=10 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=878327936 p20_avg=2130766336 p_noise_avg=123641 SNR_real=42.4 dB SNR_tone=3.8 dB
+RX: wins=23500 ok=10 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=974408448 p20_avg=2108383616 p_noise_avg=108918 SNR_real=42.9 dB SNR_tone=3.4 dB
+RX: wins=24000 ok=10 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1509037184 p20_avg=3135417088 p_noise_avg=164411 SNR_real=42.8 dB SNR_tone=3.2 dB
+RX: wins=24500 ok=10 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1496272640 p20_avg=2066001024 p_noise_avg=130537 SNR_real=42.0 dB SNR_tone=1.4 dB
+FRAME OK seq=10 len=2 120 mg/dL [ok=11 fail=0 gaps=0]
+PKT,245847,10,120,11,0,0
+RX: wins=25000 ok=11 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=905172288 p20_avg=2367083264 p_noise_avg=125697 SNR_real=42.7 dB SNR_tone=4.2 dB
+RX: wins=25500 ok=11 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1376683008 p20_avg=2681114368 p_noise_avg=146465 SNR_real=42.6 dB SNR_tone=2.9 dB
+RX: wins=26000 ok=11 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=963693568 p20_avg=2071708928 p_noise_avg=149409 SNR_real=41.4 dB SNR_tone=3.3 dB
+RX: wins=26500 ok=11 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1340381952 p20_avg=1956573568 p_noise_avg=134245 SNR_real=41.6 dB SNR_tone=1.6 dB
+FRAME OK seq=11 len=2 120 mg/dL [ok=12 fail=0 gaps=0]
+PKT,267907,11,120,12,0,0
+RX: wins=27000 ok=12 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1351271552 p20_avg=2193698816 p_noise_avg=117707 SNR_real=42.7 dB SNR_tone=2.1 dB
+RX: wins=27500 ok=12 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=904064832 p20_avg=1790574720 p_noise_avg=149540 SNR_real=40.8 dB SNR_tone=3.0 dB
+RX: wins=28000 ok=12 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1046180032 p20_avg=2064569728 p_noise_avg=146719 SNR_real=41.5 dB SNR_tone=3.0 dB
+RX: wins=28500 ok=12 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=910666624 p20_avg=1586754048 p_noise_avg=145621 SNR_real=40.4 dB SNR_tone=2.4 dB
+FRAME OK seq=12 len=2 120 mg/dL [ok=13 fail=0 gaps=0]
+PKT,289967,12,120,13,0,0
+RX: wins=29000 ok=13 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1038398656 p20_avg=1392833024 p_noise_avg=121776 SNR_real=40.6 dB SNR_tone=1.3 dB
+RX: wins=29500 ok=13 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=971187904 p20_avg=2075785472 p_noise_avg=100120 SNR_real=43.2 dB SNR_tone=3.3 dB
+RX: wins=30000 ok=13 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1011638912 p20_avg=2086255488 p_noise_avg=115331 SNR_real=42.6 dB SNR_tone=3.1 dB
+RX: wins=30500 ok=13 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=955592384 p20_avg=2304818688 p_noise_avg=113165 SNR_real=43.1 dB SNR_tone=3.8 dB
+RX: wins=31000 ok=13 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1249304320 p20_avg=1708456832 p_noise_avg=117727 SNR_real=41.6 dB SNR_tone=1.4 dB
+FRAME OK seq=13 len=2 120 mg/dL [ok=14 fail=0 gaps=0]
+PKT,312027,13,120,14,0,0
+RX: wins=31500 ok=14 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=907492096 p20_avg=1444291456 p_noise_avg=155462 SNR_real=39.7 dB SNR_tone=2.0 dB
+RX: wins=32000 ok=14 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=860141376 p20_avg=1691970816 p_noise_avg=127223 SNR_real=41.2 dB SNR_tone=2.9 dB
+RX: wins=32500 ok=14 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=979638336 p20_avg=2005288448 p_noise_avg=114141 SNR_real=42.4 dB SNR_tone=3.1 dB
+RX: wins=33000 ok=14 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1175296512 p20_avg=2281764864 p_noise_avg=88867 SNR_real=44.1 dB SNR_tone=2.9 dB
+FRAME OK seq=14 len=2 120 mg/dL [ok=15 fail=0 gaps=0]
+PKT,334087,14,120,15,0,0
+RX: wins=33500 ok=15 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1376834048 p20_avg=3318584320 p_noise_avg=46020 SNR_real=48.6 dB SNR_tone=3.8 dB
+RX: wins=34000 ok=15 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1236941568 p20_avg=3371664640 p_noise_avg=49674 SNR_real=48.3 dB SNR_tone=4.4 dB
+RX: wins=34500 ok=15 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1258076288 p20_avg=3288274944 p_noise_avg=54422 SNR_real=47.8 dB SNR_tone=4.2 dB
+RX: wins=35000 ok=15 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1165513216 p20_avg=3485231104 p_noise_avg=49553 SNR_real=48.5 dB SNR_tone=4.8 dB
+RX: wins=35500 ok=15 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1723570176 p20_avg=2934002176 p_noise_avg=43279 SNR_real=48.3 dB SNR_tone=2.3 dB
+FRAME OK seq=15 len=2 120 mg/dL [ok=16 fail=0 gaps=0]
+PKT,356147,15,120,16,0,0
+RX: wins=36000 ok=16 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1265225600 p20_avg=3435776512 p_noise_avg=46323 SNR_real=48.7 dB SNR_tone=4.3 dB
+RX: wins=36500 ok=16 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1190974848 p20_avg=3443032320 p_noise_avg=51199 SNR_real=48.3 dB SNR_tone=4.6 dB
+RX: wins=37000 ok=16 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1330516992 p20_avg=3291579392 p_noise_avg=57084 SNR_real=47.6 dB SNR_tone=3.9 dB
+RX: wins=37500 ok=16 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1569925248 p20_avg=3197944832 p_noise_avg=47691 SNR_real=48.3 dB SNR_tone=3.1 dB
+FRAME OK seq=16 len=2 120 mg/dL [ok=17 fail=0 gaps=0]
+PKT,378207,16,120,17,0,0
+RX: wins=38000 ok=17 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1320629760 p20_avg=3380062208 p_noise_avg=49102 SNR_real=48.4 dB SNR_tone=4.1 dB
+RX: wins=38500 ok=17 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1206212736 p20_avg=3247940864 p_noise_avg=62697 SNR_real=47.1 dB SNR_tone=4.3 dB
+RX: wins=39000 ok=17 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1011809408 p20_avg=2127241600 p_noise_avg=98524 SNR_real=43.3 dB SNR_tone=3.2 dB
+RX: wins=39500 ok=17 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=1000528384 p20_avg=2223611648 p_noise_avg=99661 SNR_real=43.5 dB SNR_tone=3.5 dB
+RX: wins=40000 ok=17 fail=0 gaps=0 bit=0 st=6 sync=1
+    p10_avg=1384845824 p20_avg=1815330304 p_noise_avg=99986 SNR_real=42.6 dB SNR_tone=1.2 dB
+FRAME OK seq=17 len=2 120 mg/dL [ok=18 fail=0 gaps=0]
+PKT,400267,17,120,18,0,0
+RX: wins=40500 ok=18 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=942945536 p20_avg=2189806592 p_noise_avg=103415 SNR_real=43.3 dB SNR_tone=3.7 dB
+RX: wins=41000 ok=18 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=949999552 p20_avg=2233178112 p_noise_avg=100586 SNR_real=43.5 dB SNR_tone=3.7 dB
+RX: wins=41500 ok=18 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1093544832 p20_avg=2130675712 p_noise_avg=105478 SNR_real=43.1 dB SNR_tone=2.9 dB
+RX: wins=42000 ok=18 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1154458624 p20_avg=2050395136 p_noise_avg=98218 SNR_real=43.2 dB SNR_tone=2.5 dB
+FRAME OK seq=18 len=2 120 mg/dL [ok=19 fail=0 gaps=0]
+PKT,422337,18,120,19,0,0
+RX: wins=42500 ok=19 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1049865984 p20_avg=2120848768 p_noise_avg=91472 SNR_real=43.7 dB SNR_tone=3.1 dB
+RX: wins=43000 ok=19 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1004816960 p20_avg=2159830784 p_noise_avg=97438 SNR_real=43.5 dB SNR_tone=3.3 dB
+RX: wins=43500 ok=19 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1033565696 p20_avg=2215042816 p_noise_avg=97277 SNR_real=43.6 dB SNR_tone=3.3 dB
+RX: wins=44000 ok=19 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1084477568 p20_avg=2117427072 p_noise_avg=97283 SNR_real=43.4 dB SNR_tone=2.9 dB
+FRAME OK seq=19 len=2 120 mg/dL [ok=20 fail=0 gaps=0]
+PKT,444397,19,120,20,0,0
+RX: wins=44500 ok=20 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1068802048 p20_avg=2149677824 p_noise_avg=97883 SNR_real=43.4 dB SNR_tone=3.0 dB
+RX: wins=45000 ok=20 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1054570944 p20_avg=2122068224 p_noise_avg=104710 SNR_real=43.1 dB SNR_tone=3.0 dB
+RX: wins=45500 ok=20 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=966558656 p20_avg=2299879424 p_noise_avg=95393 SNR_real=43.8 dB SNR_tone=3.8 dB
+RX: wins=46000 ok=20 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1033956608 p20_avg=2121731840 p_noise_avg=103638 SNR_real=43.1 dB SNR_tone=3.1 dB
+RX: wins=46500 ok=20 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1287968128 p20_avg=1892990208 p_noise_avg=93989 SNR_real=43.0 dB SNR_tone=1.7 dB
+FRAME OK seq=20 len=2 120 mg/dL [ok=21 fail=0 gaps=0]
+PKT,466457,20,120,21,0,0
+RX: wins=47000 ok=21 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=816846656 p20_avg=2407201024 p_noise_avg=104334 SNR_real=43.6 dB SNR_tone=4.7 dB
+RX: wins=47500 ok=21 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1046884608 p20_avg=2175232512 p_noise_avg=100580 SNR_real=43.3 dB SNR_tone=3.2 dB
+RX: wins=48000 ok=21 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=970726592 p20_avg=2160429056 p_noise_avg=100862 SNR_real=43.3 dB SNR_tone=3.5 dB
+RX: wins=48500 ok=21 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1104892160 p20_avg=2040992000 p_noise_avg=98874 SNR_real=43.1 dB SNR_tone=2.7 dB
+FRAME OK seq=21 len=2 120 mg/dL [ok=22 fail=0 gaps=0]
+PKT,488517,21,120,22,0,0
+RX: wins=49000 ok=22 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1171091328 p20_avg=2039917696 p_noise_avg=104489 SNR_real=42.9 dB SNR_tone=2.4 dB
+RX: wins=49500 ok=22 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1068515520 p20_avg=2140386304 p_noise_avg=107965 SNR_real=43.0 dB SNR_tone=3.0 dB
+RX: wins=50000 ok=22 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=910782592 p20_avg=2192165632 p_noise_avg=108179 SNR_real=43.1 dB SNR_tone=3.8 dB
+RX: wins=50500 ok=22 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1054753920 p20_avg=2034787328 p_noise_avg=102237 SNR_real=43.0 dB SNR_tone=2.9 dB
+RX: wins=51000 ok=22 fail=0 gaps=0 bit=0 st=6 sync=1
+    p10_avg=1200340608 p20_avg=2021952512 p_noise_avg=99303 SNR_real=43.1 dB SNR_tone=2.3 dB
+FRAME OK seq=22 len=2 120 mg/dL [ok=23 fail=0 gaps=0]
+PKT,510577,22,120,23,0,0
+RX: wins=51500 ok=23 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1037175552 p20_avg=2205890816 p_noise_avg=101059 SNR_real=43.4 dB SNR_tone=3.3 dB
+RX: wins=52000 ok=23 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=996579008 p20_avg=2116887296 p_noise_avg=104674 SNR_real=43.1 dB SNR_tone=3.3 dB
+RX: wins=52500 ok=23 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=971590208 p20_avg=2180197632 p_noise_avg=102764 SNR_real=43.3 dB SNR_tone=3.5 dB
+RX: wins=53000 ok=23 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1125509120 p20_avg=2138200576 p_noise_avg=95115 SNR_real=43.5 dB SNR_tone=2.8 dB
+FRAME OK seq=23 len=2 120 mg/dL [ok=24 fail=0 gaps=0]
+PKT,532637,23,120,24,0,0
+RX: wins=53500 ok=24 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1102228224 p20_avg=2192944384 p_noise_avg=105442 SNR_real=43.2 dB SNR_tone=3.0 dB
+RX: wins=54000 ok=24 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1021135424 p20_avg=2146634496 p_noise_avg=109066 SNR_real=42.9 dB SNR_tone=3.2 dB
+RX: wins=54500 ok=24 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=937957568 p20_avg=2244838656 p_noise_avg=107035 SNR_real=43.2 dB SNR_tone=3.8 dB
+RX: wins=55000 ok=24 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1252667648 p20_avg=2118370048 p_noise_avg=95290 SNR_real=43.5 dB SNR_tone=2.3 dB
+FRAME OK seq=24 len=2 120 mg/dL [ok=25 fail=0 gaps=0]
+PKT,554697,24,120,25,0,0
+RX: wins=55500 ok=25 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1594266624 p20_avg=2782714624 p_noise_avg=59768 SNR_real=46.7 dB SNR_tone=2.4 dB
+RX: wins=56000 ok=25 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1249794304 p20_avg=3419496704 p_noise_avg=55376 SNR_real=47.9 dB SNR_tone=4.4 dB
+RX: wins=56500 ok=25 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1285281920 p20_avg=3381019904 p_noise_avg=48140 SNR_real=48.5 dB SNR_tone=4.2 dB
+RX: wins=57000 ok=25 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1265207040 p20_avg=3560192768 p_noise_avg=50454 SNR_real=48.5 dB SNR_tone=4.5 dB
+RX: wins=57500 ok=25 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1426296704 p20_avg=2272252672 p_noise_avg=87347 SNR_real=44.2 dB SNR_tone=2.0 dB
+FRAME OK seq=25 len=2 120 mg/dL [ok=26 fail=0 gaps=0]
+PKT,576757,25,120,26,0,0
+RX: wins=58000 ok=26 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=959967168 p20_avg=2236599040 p_noise_avg=102046 SNR_real=43.4 dB SNR_tone=3.7 dB
+RX: wins=58500 ok=26 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1008275520 p20_avg=2146733440 p_noise_avg=108712 SNR_real=43.0 dB SNR_tone=3.3 dB
+RX: wins=59000 ok=26 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=984264960 p20_avg=2245091072 p_noise_avg=96147 SNR_real=43.7 dB SNR_tone=3.6 dB
+RX: wins=59500 ok=26 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1214056704 p20_avg=2028831744 p_noise_avg=100552 SNR_real=43.0 dB SNR_tone=2.2 dB
+FRAME OK seq=26 len=2 120 mg/dL [ok=27 fail=0 gaps=0]
+PKT,598817,26,120,27,0,0
+RX: wins=60000 ok=27 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1071230848 p20_avg=2114893056 p_noise_avg=95706 SNR_real=43.4 dB SNR_tone=3.0 dB
+RX: wins=60500 ok=27 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=940427136 p20_avg=2190681344 p_noise_avg=104529 SNR_real=43.2 dB SNR_tone=3.7 dB
+RX: wins=61000 ok=27 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1052165312 p20_avg=2156863488 p_noise_avg=105623 SNR_real=43.1 dB SNR_tone=3.1 dB
+RX: wins=61500 ok=27 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=973734144 p20_avg=2256947200 p_noise_avg=99572 SNR_real=43.6 dB SNR_tone=3.7 dB
+RX: wins=62000 ok=27 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1283504768 p20_avg=1931024896 p_noise_avg=94429 SNR_real=43.1 dB SNR_tone=1.8 dB
+FRAME OK seq=27 len=2 120 mg/dL [ok=28 fail=0 gaps=0]
+PKT,620887,27,120,28,0,0
+RX: wins=62500 ok=28 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=997489664 p20_avg=2609827328 p_noise_avg=92401 SNR_real=44.5 dB SNR_tone=4.2 dB
+RX: wins=63000 ok=28 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1336976256 p20_avg=3408764160 p_noise_avg=50745 SNR_real=48.3 dB SNR_tone=4.1 dB
+RX: wins=63500 ok=28 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1257048320 p20_avg=3498059008 p_noise_avg=49377 SNR_real=48.5 dB SNR_tone=4.4 dB
+RX: wins=64000 ok=28 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1537936512 p20_avg=3143295488 p_noise_avg=49671 SNR_real=48.0 dB SNR_tone=3.1 dB
+FRAME OK seq=28 len=2 120 mg/dL [ok=29 fail=0 gaps=0]
+PKT,642947,28,120,29,0,0
+RX: wins=64500 ok=29 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1334095616 p20_avg=3337123328 p_noise_avg=49448 SNR_real=48.3 dB SNR_tone=4.0 dB
+RX: wins=65000 ok=29 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1273303936 p20_avg=3576769280 p_noise_avg=50892 SNR_real=48.5 dB SNR_tone=4.5 dB
+RX: wins=65500 ok=29 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1374305664 p20_avg=3369933824 p_noise_avg=50647 SNR_real=48.2 dB SNR_tone=3.9 dB
+RX: wins=66000 ok=29 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=1269291904 p20_avg=3419474688 p_noise_avg=55278 SNR_real=47.9 dB SNR_tone=4.3 dB
+FRAME OK seq=29 len=2 120 mg/dL [ok=30 fail=0 gaps=0]
+PKT,665007,29,120,30,0,0
+RX: wins=66500 ok=30 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1540887680 p20_avg=3148547584 p_noise_avg=48882 SNR_real=48.1 dB SNR_tone=3.1 dB
+RX: wins=67001 ok=30 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1268884352 p20_avg=3531200256 p_noise_avg=50250 SNR_real=48.5 dB SNR_tone=4.4 dB
+RX: wins=67501 ok=30 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1344324096 p20_avg=3415400960 p_noise_avg=52580 SNR_real=48.1 dB SNR_tone=4.0 dB
+RX: wins=68001 ok=30 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1223316736 p20_avg=3520718080 p_noise_avg=50023 SNR_real=48.5 dB SNR_tone=4.6 dB
+RX: wins=68501 ok=30 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1653262592 p20_avg=3073472512 p_noise_avg=46612 SNR_real=48.2 dB SNR_tone=2.7 dB
+FRAME OK seq=30 len=2 120 mg/dL [ok=31 fail=0 gaps=0]
+PKT,687067,30,120,31,0,0
+RX: wins=69001 ok=31 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1384274560 p20_avg=3495364352 p_noise_avg=49959 SNR_real=48.4 dB SNR_tone=4.0 dB
+RX: wins=69501 ok=31 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1268495360 p20_avg=3553139456 p_noise_avg=47884 SNR_real=48.7 dB SNR_tone=4.5 dB
+RX: wins=70001 ok=31 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1341580416 p20_avg=3346087424 p_noise_avg=55964 SNR_real=47.8 dB SNR_tone=4.0 dB
+RX: wins=70501 ok=31 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1377009536 p20_avg=3381111296 p_noise_avg=55915 SNR_real=47.8 dB SNR_tone=3.9 dB
+FRAME OK seq=31 len=2 120 mg/dL [ok=32 fail=0 gaps=0]
+PKT,709127,31,120,32,0,0
+RX: wins=71001 ok=32 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1547399936 p20_avg=3293391104 p_noise_avg=50230 SNR_real=48.2 dB SNR_tone=3.3 dB
+RX: wins=71501 ok=32 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1311109632 p20_avg=3458273280 p_noise_avg=54652 SNR_real=48.0 dB SNR_tone=4.2 dB
+RX: wins=72001 ok=32 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1292491648 p20_avg=3420473600 p_noise_avg=52102 SNR_real=48.2 dB SNR_tone=4.2 dB
+RX: wins=72501 ok=32 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1202381184 p20_avg=3550862336 p_noise_avg=55776 SNR_real=48.0 dB SNR_tone=4.7 dB
+RX: wins=73001 ok=32 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1834223104 p20_avg=2957036800 p_noise_avg=45537 SNR_real=48.1 dB SNR_tone=2.1 dB
+FRAME OK seq=32 len=2 120 mg/dL [ok=33 fail=0 gaps=0]
+PKT,731187,32,120,33,0,0
+RX: wins=73501 ok=33 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1249753856 p20_avg=3616435200 p_noise_avg=53254 SNR_real=48.3 dB SNR_tone=4.6 dB
+RX: wins=74001 ok=33 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1202999552 p20_avg=3554941952 p_noise_avg=58159 SNR_real=47.9 dB SNR_tone=4.7 dB
+RX: wins=74501 ok=33 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1360220672 p20_avg=3301619712 p_noise_avg=57525 SNR_real=47.6 dB SNR_tone=3.9 dB
+RX: wins=75001 ok=33 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1515859584 p20_avg=3280588544 p_noise_avg=51787 SNR_real=48.0 dB SNR_tone=3.4 dB
+FRAME OK seq=33 len=2 120 mg/dL [ok=34 fail=0 gaps=0]
+PKT,753247,33,120,34,0,0
+RX: wins=75501 ok=34 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1405833856 p20_avg=3398615552 p_noise_avg=50499 SNR_real=48.3 dB SNR_tone=3.8 dB
+RX: wins=76001 ok=34 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1284731136 p20_avg=3423644160 p_noise_avg=53986 SNR_real=48.0 dB SNR_tone=4.3 dB
+RX: wins=76501 ok=34 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1278578688 p20_avg=3456925696 p_noise_avg=54558 SNR_real=48.0 dB SNR_tone=4.3 dB
+RX: wins=77001 ok=34 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=1324037120 p20_avg=3563854080 p_noise_avg=51695 SNR_real=48.4 dB SNR_tone=4.3 dB
+RX: wins=77501 ok=34 fail=0 gaps=0 bit=0 st=6 sync=1
+    p10_avg=1749380608 p20_avg=3001035776 p_noise_avg=47085 SNR_real=48.0 dB SNR_tone=2.3 dB
+FRAME OK seq=34 len=2 120 mg/dL [ok=35 fail=0 gaps=0]
+PKT,775307,34,120,35,0,0
+RX: wins=78001 ok=35 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1293436032 p20_avg=3392381184 p_noise_avg=52102 SNR_real=48.1 dB SNR_tone=4.2 dB
+RX: wins=78501 ok=35 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1189187712 p20_avg=3560955648 p_noise_avg=58816 SNR_real=47.8 dB SNR_tone=4.8 dB
+RX: wins=79001 ok=35 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1453845504 p20_avg=3393558528 p_noise_avg=52342 SNR_real=48.1 dB SNR_tone=3.7 dB
+RX: wins=79501 ok=35 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1456920832 p20_avg=3371228928 p_noise_avg=49640 SNR_real=48.3 dB SNR_tone=3.6 dB
+FRAME OK seq=35 len=2 120 mg/dL [ok=36 fail=0 gaps=0]
+PKT,797367,35,120,36,0,0
+RX: wins=80001 ok=36 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1339036160 p20_avg=3433910272 p_noise_avg=52112 SNR_real=48.2 dB SNR_tone=4.1 dB
+RX: wins=80501 ok=36 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1308489984 p20_avg=3416058880 p_noise_avg=54803 SNR_real=47.9 dB SNR_tone=4.2 dB
+RX: wins=81001 ok=36 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1332683648 p20_avg=3530463488 p_noise_avg=53701 SNR_real=48.2 dB SNR_tone=4.2 dB
+RX: wins=81501 ok=36 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1439504000 p20_avg=3345758208 p_noise_avg=47438 SNR_real=48.5 dB SNR_tone=3.7 dB
+FRAME OK seq=36 len=2 120 mg/dL [ok=37 fail=0 gaps=0]
+PKT,819437,36,120,37,0,0
+RX: wins=82001 ok=37 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1476262784 p20_avg=3317956096 p_noise_avg=54665 SNR_real=47.8 dB SNR_tone=3.5 dB
+RX: wins=82501 ok=37 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1333171200 p20_avg=3364639232 p_noise_avg=58371 SNR_real=47.6 dB SNR_tone=4.0 dB
+RX: wins=83001 ok=37 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1256241920 p20_avg=3575861760 p_noise_avg=50527 SNR_real=48.5 dB SNR_tone=4.5 dB
+RX: wins=83501 ok=37 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1370365568 p20_avg=3345870336 p_noise_avg=48522 SNR_real=48.4 dB SNR_tone=3.9 dB
+RX: wins=84001 ok=37 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1622967040 p20_avg=3100762880 p_noise_avg=47020 SNR_real=48.2 dB SNR_tone=2.8 dB
+FRAME OK seq=37 len=2 120 mg/dL [ok=38 fail=0 gaps=0]
+PKT,841497,37,120,38,0,0
+RX: wins=84501 ok=38 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1271241856 p20_avg=3480097280 p_noise_avg=50666 SNR_real=48.4 dB SNR_tone=4.4 dB
+RX: wins=85001 ok=38 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1369152768 p20_avg=3463502336 p_noise_avg=56580 SNR_real=47.9 dB SNR_tone=4.0 dB
+RX: wins=85501 ok=38 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1293315584 p20_avg=3489379584 p_noise_avg=52484 SNR_real=48.2 dB SNR_tone=4.3 dB
+RX: wins=86001 ok=38 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1314714496 p20_avg=2767556352 p_noise_avg=69523 SNR_real=46.0 dB SNR_tone=3.2 dB
+FRAME OK seq=38 len=2 120 mg/dL [ok=39 fail=0 gaps=0]
+PKT,863557,38,120,39,0,0
+RX: wins=86501 ok=39 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1161580800 p20_avg=2622589440 p_noise_avg=82688 SNR_real=45.0 dB SNR_tone=3.5 dB
+RX: wins=87001 ok=39 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1079420288 p20_avg=2196379648 p_noise_avg=106716 SNR_real=43.1 dB SNR_tone=3.1 dB
+RX: wins=87501 ok=39 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=967538880 p20_avg=2247619072 p_noise_avg=106888 SNR_real=43.2 dB SNR_tone=3.7 dB
+RX: wins=88001 ok=39 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1242951936 p20_avg=2734964992 p_noise_avg=78540 SNR_real=45.4 dB SNR_tone=3.4 dB
+RX: wins=88501 ok=39 fail=0 gaps=0 bit=0 st=6 sync=1
+    p10_avg=1578030208 p20_avg=3179263744 p_noise_avg=50325 SNR_real=48.0 dB SNR_tone=3.0 dB
+FRAME OK seq=39 len=2 120 mg/dL [ok=40 fail=0 gaps=0]
+PKT,885617,39,120,40,0,0
+RX: wins=89001 ok=40 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1248412800 p20_avg=3596405760 p_noise_avg=53366 SNR_real=48.3 dB SNR_tone=4.6 dB
+RX: wins=89501 ok=40 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1264061184 p20_avg=3137868032 p_noise_avg=63332 SNR_real=47.0 dB SNR_tone=3.9 dB
+RX: wins=90001 ok=40 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1053350528 p20_avg=2539164160 p_noise_avg=91008 SNR_real=44.5 dB SNR_tone=3.8 dB
+RX: wins=90501 ok=40 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1520288256 p20_avg=3239286784 p_noise_avg=51530 SNR_real=48.0 dB SNR_tone=3.3 dB
+FRAME OK seq=40 len=2 120 mg/dL [ok=41 fail=0 gaps=0]
+PKT,907677,40,120,41,0,0
+RX: wins=91001 ok=41 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1363968512 p20_avg=3600201728 p_noise_avg=47030 SNR_real=48.8 dB SNR_tone=4.2 dB
+RX: wins=91501 ok=41 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1225128192 p20_avg=2970397440 p_noise_avg=78099 SNR_real=45.8 dB SNR_tone=3.8 dB
+RX: wins=92001 ok=41 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1169605888 p20_avg=3243585536 p_noise_avg=65002 SNR_real=47.0 dB SNR_tone=4.4 dB
+RX: wins=92501 ok=41 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1235280768 p20_avg=2400367872 p_noise_avg=95171 SNR_real=44.0 dB SNR_tone=2.9 dB
+FRAME OK seq=41 len=2 120 mg/dL [ok=42 fail=0 gaps=0]
+PKT,929737,41,120,42,0,0
+RX: wins=93001 ok=42 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1176028416 p20_avg=2133546880 p_noise_avg=104433 SNR_real=43.1 dB SNR_tone=2.6 dB
+RX: wins=93501 ok=42 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1000002688 p20_avg=2185896448 p_noise_avg=107139 SNR_real=43.1 dB SNR_tone=3.4 dB
+RX: wins=94001 ok=42 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1012853888 p20_avg=2102458112 p_noise_avg=105670 SNR_real=43.0 dB SNR_tone=3.2 dB
+RX: wins=94501 ok=42 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=962518272 p20_avg=2213772544 p_noise_avg=110084 SNR_real=43.0 dB SNR_tone=3.6 dB
+RX: wins=95001 ok=42 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1342429952 p20_avg=1945251328 p_noise_avg=91775 SNR_real=43.3 dB SNR_tone=1.6 dB
+FRAME OK seq=42 len=2 120 mg/dL [ok=43 fail=0 gaps=0]
+PKT,951797,42,120,43,0,0
+RX: wins=95501 ok=43 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1009146304 p20_avg=2787282176 p_noise_avg=91671 SNR_real=44.8 dB SNR_tone=4.4 dB
+RX: wins=96001 ok=43 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1288614912 p20_avg=3368748800 p_noise_avg=60728 SNR_real=47.4 dB SNR_tone=4.2 dB
+RX: wins=96501 ok=43 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1081148544 p20_avg=2828050688 p_noise_avg=85324 SNR_real=45.2 dB SNR_tone=4.2 dB
+RX: wins=97001 ok=43 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1179764736 p20_avg=2112308736 p_noise_avg=97270 SNR_real=43.4 dB SNR_tone=2.5 dB
+FRAME OK seq=43 len=2 120 mg/dL [ok=44 fail=0 gaps=0]
+PKT,973857,43,120,44,0,0
+RX: wins=97501 ok=44 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1058640128 p20_avg=2190705408 p_noise_avg=104438 SNR_real=43.2 dB SNR_tone=3.2 dB
+RX: wins=98001 ok=44 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=948132800 p20_avg=2220451072 p_noise_avg=107699 SNR_real=43.1 dB SNR_tone=3.7 dB
+RX: wins=98501 ok=44 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1055783104 p20_avg=2151403264 p_noise_avg=104476 SNR_real=43.1 dB SNR_tone=3.1 dB
+RX: wins=99001 ok=44 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=981698240 p20_avg=2333819648 p_noise_avg=103199 SNR_real=43.5 dB SNR_tone=3.8 dB
+RX: wins=99501 ok=44 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1223820800 p20_avg=2057582208 p_noise_avg=94875 SNR_real=43.4 dB SNR_tone=2.3 dB
+FRAME OK seq=44 len=2 120 mg/dL [ok=45 fail=0 gaps=0]
+PKT,995917,44,120,45,0,0
+RX: wins=100001 ok=45 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=948317184 p20_avg=2228053760 p_noise_avg=105549 SNR_real=43.2 dB SNR_tone=3.7 dB
+RX: wins=100501 ok=45 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1015787264 p20_avg=2164919296 p_noise_avg=101121 SNR_real=43.3 dB SNR_tone=3.3 dB
+RX: wins=101001 ok=45 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1007532160 p20_avg=2268204544 p_noise_avg=95777 SNR_real=43.7 dB SNR_tone=3.5 dB
+RX: wins=101501 ok=45 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1171234048 p20_avg=2054975616 p_noise_avg=93973 SNR_real=43.4 dB SNR_tone=2.4 dB
+FRAME OK seq=45 len=2 120 mg/dL [ok=46 fail=0 gaps=0]
+PKT,1017987,45,120,46,0,0
+RX: wins=102001 ok=46 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1057131392 p20_avg=2122727296 p_noise_avg=101603 SNR_real=43.2 dB SNR_tone=3.0 dB
+RX: wins=102501 ok=46 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=947566016 p20_avg=2247146240 p_noise_avg=100425 SNR_real=43.5 dB SNR_tone=3.8 dB
+RX: wins=103001 ok=46 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1110054656 p20_avg=2179064320 p_noise_avg=102434 SNR_real=43.3 dB SNR_tone=2.9 dB
+RX: wins=103501 ok=46 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=989177344 p20_avg=2231973632 p_noise_avg=103145 SNR_real=43.4 dB SNR_tone=3.5 dB
+RX: wins=104001 ok=46 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1146237184 p20_avg=2067335296 p_noise_avg=98531 SNR_real=43.2 dB SNR_tone=2.6 dB
+FRAME OK seq=46 len=2 120 mg/dL [ok=47 fail=0 gaps=0]
+PKT,1040047,46,120,47,0,0
+RX: wins=104501 ok=47 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=957410240 p20_avg=2213075968 p_noise_avg=94474 SNR_real=43.7 dB SNR_tone=3.6 dB
+RX: wins=105001 ok=47 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1036919296 p20_avg=2210693632 p_noise_avg=102022 SNR_real=43.4 dB SNR_tone=3.3 dB
+RX: wins=105501 ok=47 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=966531072 p20_avg=2193803520 p_noise_avg=106291 SNR_real=43.1 dB SNR_tone=3.6 dB
+RX: wins=106001 ok=47 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1202834944 p20_avg=1993316992 p_noise_avg=103813 SNR_real=42.8 dB SNR_tone=2.2 dB
+FRAME OK seq=47 len=2 120 mg/dL [ok=48 fail=0 gaps=0]
+PKT,1062107,47,120,48,0,0
+RX: wins=106501 ok=48 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1026744000 p20_avg=2180624384 p_noise_avg=99134 SNR_real=43.4 dB SNR_tone=3.3 dB
+RX: wins=107001 ok=48 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=964779328 p20_avg=2268194304 p_noise_avg=98634 SNR_real=43.6 dB SNR_tone=3.7 dB
+RX: wins=107501 ok=48 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1063924096 p20_avg=2082054016 p_noise_avg=103473 SNR_real=43.0 dB SNR_tone=2.9 dB
+RX: wins=108001 ok=48 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1055616704 p20_avg=2133033216 p_noise_avg=95527 SNR_real=43.5 dB SNR_tone=3.1 dB
+FRAME OK seq=48 len=2 120 mg/dL [ok=49 fail=0 gaps=0]
+PKT,1084167,48,120,49,0,0
+RX: wins=108501 ok=49 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1084544000 p20_avg=2159141632 p_noise_avg=95144 SNR_real=43.6 dB SNR_tone=3.0 dB
+RX: wins=109001 ok=49 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1059603392 p20_avg=2207602688 p_noise_avg=108193 SNR_real=43.1 dB SNR_tone=3.2 dB
+RX: wins=109501 ok=49 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=978408640 p20_avg=2184975872 p_noise_avg=104160 SNR_real=43.2 dB SNR_tone=3.5 dB
+RX: wins=110001 ok=49 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=932164864 p20_avg=2192578560 p_noise_avg=104483 SNR_real=43.2 dB SNR_tone=3.7 dB
+RX: wins=110501 ok=49 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1318118528 p20_avg=1859808128 p_noise_avg=93987 SNR_real=43.0 dB SNR_tone=1.5 dB
+FRAME OK seq=49 len=2 120 mg/dL [ok=50 fail=0 gaps=0]
+PKT,1106227,49,120,50,0,0
+RX: wins=111001 ok=50 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1024796544 p20_avg=2239751424 p_noise_avg=99254 SNR_real=43.5 dB SNR_tone=3.4 dB
+RX: wins=111501 ok=50 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=925472000 p20_avg=2254631680 p_noise_avg=94773 SNR_real=43.8 dB SNR_tone=3.9 dB
+RX: wins=112001 ok=50 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1211701504 p20_avg=2796392192 p_noise_avg=75630 SNR_real=45.7 dB SNR_tone=3.6 dB
+RX: wins=112501 ok=50 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1422186112 p20_avg=3317430016 p_noise_avg=52639 SNR_real=48.0 dB SNR_tone=3.7 dB
+FRAME OK seq=50 len=2 120 mg/dL [ok=51 fail=0 gaps=0]
+PKT,1128287,50,120,51,0,0
+RX: wins=113001 ok=51 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1461391360 p20_avg=3350010368 p_noise_avg=55027 SNR_real=47.8 dB SNR_tone=3.6 dB
+RX: wins=113501 ok=51 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1294888192 p20_avg=3381467392 p_noise_avg=57123 SNR_real=47.7 dB SNR_tone=4.2 dB
+RX: wins=114001 ok=51 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1240348672 p20_avg=3402686976 p_noise_avg=57390 SNR_real=47.7 dB SNR_tone=4.4 dB
+RX: wins=114501 ok=51 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=1277388288 p20_avg=3432446976 p_noise_avg=55249 SNR_real=47.9 dB SNR_tone=4.3 dB
+RX: wins=115001 ok=51 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1646585984 p20_avg=3043456768 p_noise_avg=53674 SNR_real=47.5 dB SNR_tone=2.7 dB
+FRAME OK seq=51 len=2 120 mg/dL [ok=52 fail=0 gaps=0]
+PKT,1150347,51,120,52,0,0
+RX: wins=115501 ok=52 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1188718464 p20_avg=3516302336 p_noise_avg=64580 SNR_real=47.4 dB SNR_tone=4.7 dB
+RX: wins=116001 ok=52 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=994479808 p20_avg=2594945280 p_noise_avg=92477 SNR_real=44.5 dB SNR_tone=4.2 dB
+RX: wins=116501 ok=52 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1066950080 p20_avg=2138749696 p_noise_avg=98532 SNR_real=43.4 dB SNR_tone=3.0 dB
+RX: wins=117001 ok=52 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1132855808 p20_avg=2148907520 p_noise_avg=94556 SNR_real=43.6 dB SNR_tone=2.8 dB
+FRAME OK seq=52 len=2 120 mg/dL [ok=53 fail=0 gaps=0]
+PKT,1172407,52,120,53,0,0
+RX: wins=117501 ok=53 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1076988416 p20_avg=2153619200 p_noise_avg=103833 SNR_real=43.2 dB SNR_tone=3.0 dB
+RX: wins=118001 ok=53 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1147646976 p20_avg=2844193024 p_noise_avg=89056 SNR_real=45.0 dB SNR_tone=3.9 dB
+RX: wins=118501 ok=53 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=997252864 p20_avg=2197359872 p_noise_avg=112018 SNR_real=42.9 dB SNR_tone=3.4 dB
+RX: wins=119001 ok=53 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1123771264 p20_avg=2115593728 p_noise_avg=106094 SNR_real=43.0 dB SNR_tone=2.7 dB
+FRAME OK seq=53 len=2 120 mg/dL [ok=54 fail=0 gaps=0]
+PKT,1194467,53,120,54,0,0
+RX: wins=119501 ok=54 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1146119680 p20_avg=2247247360 p_noise_avg=99384 SNR_real=43.5 dB SNR_tone=2.9 dB
+RX: wins=120001 ok=54 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1236976640 p20_avg=3178326016 p_noise_avg=64685 SNR_real=46.9 dB SNR_tone=4.1 dB
+RX: wins=120501 ok=54 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1208976000 p20_avg=3383175680 p_noise_avg=62785 SNR_real=47.3 dB SNR_tone=4.5 dB
+RX: wins=121001 ok=54 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1367671680 p20_avg=3289248768 p_noise_avg=62675 SNR_real=47.2 dB SNR_tone=3.8 dB
+RX: wins=121501 ok=54 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1514532480 p20_avg=3086903296 p_noise_avg=53001 SNR_real=47.7 dB SNR_tone=3.1 dB
+FRAME OK seq=54 len=2 120 mg/dL [ok=55 fail=0 gaps=0]
+PKT,1216537,54,120,55,0,0
+RX: wins=122001 ok=55 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1112246016 p20_avg=3460211712 p_noise_avg=59061 SNR_real=47.7 dB SNR_tone=4.9 dB
+RX: wins=122501 ok=55 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1311459072 p20_avg=3278656768 p_noise_avg=66826 SNR_real=46.9 dB SNR_tone=4.0 dB
+RX: wins=123001 ok=55 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1269836928 p20_avg=3426458880 p_noise_avg=58905 SNR_real=47.6 dB SNR_tone=4.3 dB
+RX: wins=123501 ok=55 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1358947456 p20_avg=3231160576 p_noise_avg=61186 SNR_real=47.2 dB SNR_tone=3.8 dB
+FRAME OK seq=55 len=2 120 mg/dL [ok=56 fail=0 gaps=0]
+PKT,1238597,55,120,56,0,0
+RX: wins=124001 ok=56 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1372880768 p20_avg=3163901440 p_noise_avg=64812 SNR_real=46.9 dB SNR_tone=3.6 dB
+RX: wins=124501 ok=56 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1270665216 p20_avg=3143818752 p_noise_avg=66174 SNR_real=46.8 dB SNR_tone=3.9 dB
+RX: wins=125001 ok=56 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=991775360 p20_avg=2264479232 p_noise_avg=109577 SNR_real=43.2 dB SNR_tone=3.6 dB
+RX: wins=125501 ok=56 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1053432320 p20_avg=2107084032 p_noise_avg=107212 SNR_real=42.9 dB SNR_tone=3.0 dB
+RX: wins=126001 ok=56 fail=0 gaps=0 bit=0 st=6 sync=1
+    p10_avg=1203549440 p20_avg=2040448896 p_noise_avg=109633 SNR_real=42.7 dB SNR_tone=2.3 dB
+FRAME OK seq=56 len=2 120 mg/dL [ok=57 fail=0 gaps=0]
+PKT,1260657,56,120,57,0,0
+RX: wins=126501 ok=57 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1076026496 p20_avg=2181453824 p_noise_avg=109214 SNR_real=43.0 dB SNR_tone=3.1 dB
+RX: wins=127001 ok=57 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1097937792 p20_avg=2226272512 p_noise_avg=103465 SNR_real=43.3 dB SNR_tone=3.1 dB
+RX: wins=127501 ok=57 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1186479616 p20_avg=3347987712 p_noise_avg=62066 SNR_real=47.3 dB SNR_tone=4.5 dB
+RX: wins=128001 ok=57 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1408220800 p20_avg=3135070464 p_noise_avg=57941 SNR_real=47.3 dB SNR_tone=3.5 dB
+FRAME OK seq=57 len=2 120 mg/dL [ok=58 fail=0 gaps=0]
+PKT,1282717,57,120,58,0,0
+RX: wins=128501 ok=58 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1367100800 p20_avg=3284962304 p_noise_avg=61976 SNR_real=47.2 dB SNR_tone=3.8 dB
+RX: wins=129001 ok=58 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1302109952 p20_avg=3312410368 p_noise_avg=61693 SNR_real=47.3 dB SNR_tone=4.1 dB
+RX: wins=129501 ok=58 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1181710464 p20_avg=3353199360 p_noise_avg=64514 SNR_real=47.2 dB SNR_tone=4.5 dB
+RX: wins=130001 ok=58 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1226940928 p20_avg=2536424704 p_noise_avg=84714 SNR_real=44.8 dB SNR_tone=3.2 dB
+FRAME OK seq=58 len=2 120 mg/dL [ok=59 fail=0 gaps=0]
+PKT,1304777,58,120,59,0,0
+RX: wins=130501 ok=59 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1091812608 p20_avg=2130679296 p_noise_avg=100155 SNR_real=43.3 dB SNR_tone=2.9 dB
+RX: wins=131001 ok=59 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1006173696 p20_avg=2231203328 p_noise_avg=108821 SNR_real=43.1 dB SNR_tone=3.5 dB
+RX: wins=131501 ok=59 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1031226048 p20_avg=2081521024 p_noise_avg=110325 SNR_real=42.8 dB SNR_tone=3.1 dB
+RX: wins=132001 ok=59 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=933981888 p20_avg=2199222784 p_noise_avg=111688 SNR_real=42.9 dB SNR_tone=3.7 dB
+RX: wins=132501 ok=59 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1244978048 p20_avg=1999698816 p_noise_avg=108329 SNR_real=42.7 dB SNR_tone=2.1 dB
+FRAME OK seq=59 len=2 120 mg/dL [ok=60 fail=0 gaps=0]
+PKT,1326837,59,120,60,0,0
+RX: wins=133001 ok=60 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=986641280 p20_avg=2271987712 p_noise_avg=107138 SNR_real=43.3 dB SNR_tone=3.6 dB
+RX: wins=133501 ok=60 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=984942400 p20_avg=2169018880 p_noise_avg=103150 SNR_real=43.2 dB SNR_tone=3.4 dB
+RX: wins=134001 ok=60 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=955380608 p20_avg=2228798208 p_noise_avg=99821 SNR_real=43.5 dB SNR_tone=3.7 dB
+RX: wins=134501 ok=60 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1140440832 p20_avg=2097609600 p_noise_avg=104527 SNR_real=43.0 dB SNR_tone=2.6 dB
+FRAME OK seq=60 len=2 120 mg/dL [ok=61 fail=0 gaps=0]
+PKT,1348897,60,120,61,0,0
+RX: wins=135001 ok=61 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1182533760 p20_avg=2060466816 p_noise_avg=98860 SNR_real=43.2 dB SNR_tone=2.4 dB
+RX: wins=135501 ok=61 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1026737792 p20_avg=2814034944 p_noise_avg=81839 SNR_real=45.4 dB SNR_tone=4.4 dB
+RX: wins=136001 ok=61 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1317408000 p20_avg=3168930560 p_noise_avg=68827 SNR_real=46.6 dB SNR_tone=3.8 dB
+RX: wins=136501 ok=61 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1192464256 p20_avg=3479186176 p_noise_avg=61797 SNR_real=47.5 dB SNR_tone=4.7 dB
+RX: wins=137001 ok=61 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1613585536 p20_avg=3026834432 p_noise_avg=56769 SNR_real=47.3 dB SNR_tone=2.7 dB
+FRAME OK seq=61 len=2 120 mg/dL [ok=62 fail=0 gaps=0]
+PKT,1370957,61,120,62,0,0
+RX: wins=137501 ok=62 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1110289920 p20_avg=3502966784 p_noise_avg=61748 SNR_real=47.5 dB SNR_tone=5.0 dB
+RX: wins=138001 ok=62 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1223212544 p20_avg=3331836416 p_noise_avg=56430 SNR_real=47.7 dB SNR_tone=4.4 dB
+RX: wins=138501 ok=62 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1277540992 p20_avg=3396581120 p_noise_avg=55990 SNR_real=47.8 dB SNR_tone=4.2 dB
+RX: wins=139001 ok=62 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1458409472 p20_avg=3172217856 p_noise_avg=56904 SNR_real=47.5 dB SNR_tone=3.4 dB
+FRAME OK seq=62 len=2 120 mg/dL [ok=63 fail=0 gaps=0]
+PKT,1393017,62,120,63,0,0
+RX: wins=139501 ok=63 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1293191680 p20_avg=3297281024 p_noise_avg=59027 SNR_real=47.5 dB SNR_tone=4.1 dB
+RX: wins=140001 ok=63 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1146665216 p20_avg=3446790656 p_noise_avg=58622 SNR_real=47.7 dB SNR_tone=4.8 dB
+RX: wins=140501 ok=63 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1388308096 p20_avg=3257369856 p_noise_avg=68135 SNR_real=46.8 dB SNR_tone=3.7 dB
+RX: wins=141001 ok=63 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1236237568 p20_avg=3453374464 p_noise_avg=55240 SNR_real=48.0 dB SNR_tone=4.5 dB
+RX: wins=141501 ok=63 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1654037888 p20_avg=2920768512 p_noise_avg=53749 SNR_real=47.4 dB SNR_tone=2.5 dB
+FRAME OK seq=63 len=2 120 mg/dL [ok=64 fail=0 gaps=0]
+PKT,1415087,63,120,64,0,0
+RX: wins=142001 ok=64 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1191327360 p20_avg=3411048960 p_noise_avg=66320 SNR_real=47.1 dB SNR_tone=4.6 dB
+RX: wins=142501 ok=64 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1285342080 p20_avg=3406750208 p_noise_avg=55460 SNR_real=47.9 dB SNR_tone=4.2 dB
+RX: wins=143001 ok=64 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1264019584 p20_avg=3374433536 p_noise_avg=67089 SNR_real=47.0 dB SNR_tone=4.3 dB
+RX: wins=143501 ok=64 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1658539776 p20_avg=2931448064 p_noise_avg=57005 SNR_real=47.1 dB SNR_tone=2.5 dB
+FRAME OK seq=64 len=2 120 mg/dL [ok=65 fail=0 gaps=0]
+PKT,1437147,64,120,65,0,0
+RX: wins=144001 ok=65 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1064085568 p20_avg=3006549760 p_noise_avg=71843 SNR_real=46.2 dB SNR_tone=4.5 dB
+RX: wins=144501 ok=65 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1185477504 p20_avg=3193938688 p_noise_avg=69928 SNR_real=46.6 dB SNR_tone=4.3 dB
+RX: wins=145001 ok=65 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1161691008 p20_avg=2443613952 p_noise_avg=90976 SNR_real=44.3 dB SNR_tone=3.2 dB
+RX: wins=145501 ok=65 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1048371712 p20_avg=2132623360 p_noise_avg=97873 SNR_real=43.4 dB SNR_tone=3.1 dB
+FRAME OK seq=65 len=2 120 mg/dL [ok=66 fail=0 gaps=0]
+PKT,1459207,65,120,66,0,0
+RX: wins=146001 ok=66 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1212532096 p20_avg=1955901952 p_noise_avg=98205 SNR_real=43.0 dB SNR_tone=2.1 dB
+RX: wins=146501 ok=66 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1034722688 p20_avg=2163459328 p_noise_avg=100107 SNR_real=43.3 dB SNR_tone=3.2 dB
+RX: wins=147001 ok=66 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=983560128 p20_avg=2167779584 p_noise_avg=106665 SNR_real=43.1 dB SNR_tone=3.4 dB
+RX: wins=147501 ok=66 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=925839616 p20_avg=2172548352 p_noise_avg=107084 SNR_real=43.1 dB SNR_tone=3.7 dB
+RX: wins=148001 ok=66 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1340078208 p20_avg=1825915776 p_noise_avg=97068 SNR_real=42.7 dB SNR_tone=1.3 dB
+FRAME OK seq=66 len=2 120 mg/dL [ok=67 fail=0 gaps=0]
+PKT,1481267,66,120,67,0,0
+RX: wins=148501 ok=67 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=952385600 p20_avg=2280926720 p_noise_avg=116498 SNR_real=42.9 dB SNR_tone=3.8 dB
+RX: wins=149001 ok=67 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=951043328 p20_avg=2198560512 p_noise_avg=111319 SNR_real=43.0 dB SNR_tone=3.6 dB
+RX: wins=149501 ok=67 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1003298112 p20_avg=2044156928 p_noise_avg=112821 SNR_real=42.6 dB SNR_tone=3.1 dB
+RX: wins=150001 ok=67 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1071751232 p20_avg=2087407360 p_noise_avg=107549 SNR_real=42.9 dB SNR_tone=2.9 dB
+FRAME OK seq=67 len=2 120 mg/dL [ok=68 fail=0 gaps=0]
+PKT,1503327,67,120,68,0,0
+RX: wins=150501 ok=68 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1144046720 p20_avg=2050857728 p_noise_avg=102734 SNR_real=43.0 dB SNR_tone=2.5 dB
+RX: wins=151001 ok=68 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1011612736 p20_avg=2109613952 p_noise_avg=107039 SNR_real=42.9 dB SNR_tone=3.2 dB
+RX: wins=151501 ok=68 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=935980480 p20_avg=2135809152 p_noise_avg=106220 SNR_real=43.0 dB SNR_tone=3.6 dB
+RX: wins=152001 ok=68 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=970359232 p20_avg=2125334272 p_noise_avg=103468 SNR_real=43.1 dB SNR_tone=3.4 dB
+RX: wins=152501 ok=68 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1320571904 p20_avg=1862687232 p_noise_avg=105312 SNR_real=42.5 dB SNR_tone=1.5 dB
+FRAME OK seq=68 len=2 120 mg/dL [ok=69 fail=0 gaps=0]
+PKT,1525387,68,120,69,0,0
+RX: wins=153001 ok=69 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=980339840 p20_avg=2176270592 p_noise_avg=104927 SNR_real=43.2 dB SNR_tone=3.5 dB
+RX: wins=153501 ok=69 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=913512704 p20_avg=2149920256 p_noise_avg=106236 SNR_real=43.1 dB SNR_tone=3.7 dB
+RX: wins=154001 ok=69 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1010148928 p20_avg=2055736448 p_noise_avg=107866 SNR_real=42.8 dB SNR_tone=3.1 dB
+RX: wins=154501 ok=69 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1083650688 p20_avg=2090485632 p_noise_avg=99401 SNR_real=43.2 dB SNR_tone=2.9 dB
+FRAME OK seq=69 len=2 120 mg/dL [ok=70 fail=0 gaps=0]
+PKT,1547447,69,120,70,0,0
+RX: wins=155001 ok=70 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1167453440 p20_avg=1953348224 p_noise_avg=98552 SNR_real=43.0 dB SNR_tone=2.2 dB
+RX: wins=155501 ok=70 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=979550464 p20_avg=2033575680 p_noise_avg=112384 SNR_real=42.6 dB SNR_tone=3.2 dB
+RX: wins=156001 ok=70 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=929012480 p20_avg=2142233600 p_noise_avg=105542 SNR_real=43.1 dB SNR_tone=3.6 dB
+RX: wins=156501 ok=70 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1114963456 p20_avg=2044699008 p_noise_avg=107579 SNR_real=42.8 dB SNR_tone=2.6 dB
+FRAME OK seq=70 len=2 120 mg/dL [ok=71 fail=0 gaps=0]
+PKT,1569507,70,120,71,0,0
+RX: wins=157001 ok=71 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1114254464 p20_avg=2022078976 p_noise_avg=111618 SNR_real=42.6 dB SNR_tone=2.6 dB
+RX: wins=157501 ok=71 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=967433088 p20_avg=2071181696 p_noise_avg=103750 SNR_real=43.0 dB SNR_tone=3.3 dB
+RX: wins=158001 ok=71 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=922729024 p20_avg=2168702720 p_noise_avg=112210 SNR_real=42.9 dB SNR_tone=3.7 dB
+RX: wins=158501 ok=71 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1062069376 p20_avg=2115930624 p_noise_avg=100086 SNR_real=43.3 dB SNR_tone=3.0 dB
+RX: wins=159001 ok=71 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1154068608 p20_avg=2004651136 p_noise_avg=105764 SNR_real=42.8 dB SNR_tone=2.4 dB
+FRAME OK seq=71 len=2 120 mg/dL [ok=72 fail=0 gaps=0]
+PKT,1591567,71,120,72,0,0
+RX: wins=159501 ok=72 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=981771072 p20_avg=2121348864 p_noise_avg=109126 SNR_real=42.9 dB SNR_tone=3.3 dB
+RX: wins=160001 ok=72 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1018558016 p20_avg=2065458048 p_noise_avg=112431 SNR_real=42.6 dB SNR_tone=3.1 dB
+RX: wins=160501 ok=72 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=974186240 p20_avg=2224512768 p_noise_avg=112573 SNR_real=43.0 dB SNR_tone=3.6 dB
+RX: wins=161001 ok=72 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1171661056 p20_avg=1965276032 p_noise_avg=106433 SNR_real=42.7 dB SNR_tone=2.2 dB
+FRAME OK seq=72 len=2 120 mg/dL [ok=73 fail=0 gaps=0]
+PKT,1613637,72,120,73,0,0
+RX: wins=161501 ok=73 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1096575104 p20_avg=2024959104 p_noise_avg=102255 SNR_real=43.0 dB SNR_tone=2.7 dB
+RX: wins=162001 ok=73 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=971554688 p20_avg=2097452416 p_noise_avg=109883 SNR_real=42.8 dB SNR_tone=3.3 dB
+RX: wins=162501 ok=73 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=976894016 p20_avg=2193842944 p_noise_avg=106635 SNR_real=43.1 dB SNR_tone=3.5 dB
+RX: wins=163001 ok=73 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1020912192 p20_avg=2107144064 p_noise_avg=107048 SNR_real=42.9 dB SNR_tone=3.1 dB
+RX: wins=163501 ok=73 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1267693312 p20_avg=2112670080 p_noise_avg=96525 SNR_real=43.4 dB SNR_tone=2.2 dB
+FRAME OK seq=73 len=2 120 mg/dL [ok=74 fail=0 gaps=0]
+PKT,1635697,73,120,74,0,0
+RX: wins=164001 ok=74 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1117072896 p20_avg=3101771776 p_noise_avg=71123 SNR_real=46.4 dB SNR_tone=4.4 dB
+RX: wins=164501 ok=74 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1096173440 p20_avg=2163505664 p_noise_avg=100075 SNR_real=43.3 dB SNR_tone=3.0 dB
+RX: wins=165001 ok=74 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=948993920 p20_avg=2252456960 p_noise_avg=96351 SNR_real=43.7 dB SNR_tone=3.8 dB
+RX: wins=165501 ok=74 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1411228416 p20_avg=2981275136 p_noise_avg=80360 SNR_real=45.7 dB SNR_tone=3.2 dB
+FRAME OK seq=74 len=2 120 mg/dL [ok=75 fail=0 gaps=0]
+PKT,1657757,74,120,75,0,0
+RX: wins=166001 ok=75 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1467183232 p20_avg=3180975104 p_noise_avg=60356 SNR_real=47.2 dB SNR_tone=3.4 dB
+RX: wins=166501 ok=75 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1293998976 p20_avg=3428923648 p_noise_avg=68692 SNR_real=47.0 dB SNR_tone=4.2 dB
+RX: wins=167001 ok=75 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1222425472 p20_avg=3339793408 p_noise_avg=65446 SNR_real=47.1 dB SNR_tone=4.4 dB
+RX: wins=167501 ok=75 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1345567360 p20_avg=3180602624 p_noise_avg=66967 SNR_real=46.8 dB SNR_tone=3.7 dB
+FRAME OK seq=75 len=2 120 mg/dL [ok=76 fail=0 gaps=0]
+PKT,1679817,75,120,76,0,0
+RX: wins=168001 ok=76 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1630546560 p20_avg=2939720704 p_noise_avg=56903 SNR_real=47.1 dB SNR_tone=2.6 dB
+RX: wins=168501 ok=76 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1250166400 p20_avg=3486879488 p_noise_avg=65271 SNR_real=47.3 dB SNR_tone=4.5 dB
+RX: wins=169001 ok=76 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1345176704 p20_avg=3198115840 p_noise_avg=64020 SNR_real=47.0 dB SNR_tone=3.8 dB
+RX: wins=169501 ok=76 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=994905408 p20_avg=2572549376 p_noise_avg=96250 SNR_real=44.3 dB SNR_tone=4.1 dB
+RX: wins=170001 ok=76 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1269817856 p20_avg=1875291904 p_noise_avg=96936 SNR_real=42.9 dB SNR_tone=1.7 dB
+FRAME OK seq=76 len=2 120 mg/dL [ok=77 fail=0 gaps=0]
+PKT,1701877,76,120,77,0,0
+RX: wins=170501 ok=77 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1104900480 p20_avg=2114280448 p_noise_avg=106823 SNR_real=43.0 dB SNR_tone=2.8 dB
+RX: wins=171001 ok=77 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1019320640 p20_avg=2367365632 p_noise_avg=97664 SNR_real=43.8 dB SNR_tone=3.7 dB
+RX: wins=171501 ok=77 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=941656000 p20_avg=2143838976 p_noise_avg=104068 SNR_real=43.1 dB SNR_tone=3.6 dB
+RX: wins=172001 ok=77 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1088971264 p20_avg=2045232000 p_noise_avg=97322 SNR_real=43.2 dB SNR_tone=2.7 dB
+FRAME OK seq=77 len=2 120 mg/dL [ok=78 fail=0 gaps=0]
+PKT,1723937,77,120,78,0,0
+RX: wins=172501 ok=78 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1103422592 p20_avg=2105132672 p_noise_avg=102605 SNR_real=43.1 dB SNR_tone=2.8 dB
+RX: wins=173001 ok=78 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=912845312 p20_avg=2212523264 p_noise_avg=101255 SNR_real=43.4 dB SNR_tone=3.8 dB
+RX: wins=173501 ok=78 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1280721792 p20_avg=3131915520 p_noise_avg=70057 SNR_real=46.5 dB SNR_tone=3.9 dB
+RX: wins=174001 ok=78 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1164258176 p20_avg=3501143040 p_noise_avg=63451 SNR_real=47.4 dB SNR_tone=4.8 dB
+RX: wins=174501 ok=78 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1656918656 p20_avg=3074845184 p_noise_avg=62650 SNR_real=46.9 dB SNR_tone=2.7 dB
+FRAME OK seq=78 len=2 120 mg/dL [ok=79 fail=0 gaps=0]
+PKT,1745997,78,120,79,0,0
+RX: wins=175001 ok=79 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1135790848 p20_avg=3610262272 p_noise_avg=60295 SNR_real=47.8 dB SNR_tone=5.0 dB
+RX: wins=175501 ok=79 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1217435264 p20_avg=3385572608 p_noise_avg=66160 SNR_real=47.1 dB SNR_tone=4.4 dB
+RX: wins=176001 ok=79 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1245344640 p20_avg=3417035776 p_noise_avg=57122 SNR_real=47.8 dB SNR_tone=4.4 dB
+RX: wins=176501 ok=79 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1464507648 p20_avg=3286560000 p_noise_avg=61623 SNR_real=47.3 dB SNR_tone=3.5 dB
+FRAME OK seq=79 len=2 120 mg/dL [ok=80 fail=0 gaps=0]
+PKT,1768057,79,120,80,0,0
+RX: wins=177001 ok=80 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1353660672 p20_avg=3336371712 p_noise_avg=61465 SNR_real=47.3 dB SNR_tone=3.9 dB
+RX: wins=177501 ok=80 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1170303616 p20_avg=3423698432 p_noise_avg=54597 SNR_real=48.0 dB SNR_tone=4.7 dB
+RX: wins=178001 ok=80 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1321460224 p20_avg=3295062784 p_noise_avg=65625 SNR_real=47.0 dB SNR_tone=4.0 dB
+RX: wins=178501 ok=80 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1261234176 p20_avg=3538871296 p_noise_avg=57984 SNR_real=47.9 dB SNR_tone=4.5 dB
+RX: wins=179001 ok=80 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1670709504 p20_avg=2883802368 p_noise_avg=51696 SNR_real=47.5 dB SNR_tone=2.4 dB
+FRAME OK seq=80 len=2 120 mg/dL [ok=81 fail=0 gaps=0]
+PKT,1790117,80,120,81,0,0
+RX: wins=179501 ok=81 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1170082944 p20_avg=3385789952 p_noise_avg=57190 SNR_real=47.7 dB SNR_tone=4.6 dB
+RX: wins=180001 ok=81 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1233760640 p20_avg=3364496896 p_noise_avg=66346 SNR_real=47.1 dB SNR_tone=4.4 dB
+RX: wins=180501 ok=81 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1287756544 p20_avg=3418307840 p_noise_avg=65610 SNR_real=47.2 dB SNR_tone=4.2 dB
+RX: wins=181001 ok=81 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1532046464 p20_avg=3048115968 p_noise_avg=57728 SNR_real=47.2 dB SNR_tone=3.0 dB
+FRAME OK seq=81 len=2 120 mg/dL [ok=82 fail=0 gaps=0]
+PKT,1812177,81,120,82,0,0
+RX: wins=181501 ok=82 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1367425280 p20_avg=3185076224 p_noise_avg=62713 SNR_real=47.1 dB SNR_tone=3.7 dB
+RX: wins=182001 ok=82 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1197326464 p20_avg=3418643968 p_noise_avg=53735 SNR_real=48.0 dB SNR_tone=4.6 dB
+RX: wins=182501 ok=82 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1355850880 p20_avg=3302594048 p_noise_avg=62100 SNR_real=47.3 dB SNR_tone=3.9 dB
+RX: wins=183001 ok=82 fail=0 gaps=0 bit=0 st=3 sync=1
+    p10_avg=1108304640 p20_avg=2511898624 p_noise_avg=87059 SNR_real=44.6 dB SNR_tone=3.6 dB
+FRAME OK seq=82 len=2 120 mg/dL [ok=83 fail=0 gaps=0]
+PKT,1834247,82,120,83,0,0
+RX: wins=183501 ok=83 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1073329664 p20_avg=2052952064 p_noise_avg=99442 SNR_real=43.1 dB SNR_tone=2.8 dB
+RX: wins=184001 ok=83 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1012131968 p20_avg=2105759872 p_noise_avg=108645 SNR_real=42.9 dB SNR_tone=3.2 dB
+RX: wins=184501 ok=83 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=983510528 p20_avg=2218586880 p_noise_avg=104892 SNR_real=43.3 dB SNR_tone=3.5 dB
+RX: wins=185001 ok=83 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=946135936 p20_avg=2162087424 p_noise_avg=105395 SNR_real=43.1 dB SNR_tone=3.6 dB
+RX: wins=185501 ok=83 fail=0 gaps=0 bit=0 st=5 sync=1
+    p10_avg=1242933248 p20_avg=1918419712 p_noise_avg=103330 SNR_real=42.7 dB SNR_tone=1.9 dB
+FRAME OK seq=83 len=2 120 mg/dL [ok=84 fail=0 gaps=0]
+PKT,1856307,83,120,84,0,0
+RX: wins=186001 ok=84 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=935453184 p20_avg=2481967104 p_noise_avg=96218 SNR_real=44.1 dB SNR_tone=4.2 dB
+RX: wins=186501 ok=84 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1124325504 p20_avg=2883599360 p_noise_avg=90959 SNR_real=45.0 dB SNR_tone=4.1 dB
+RX: wins=187001 ok=84 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1049673216 p20_avg=2179393024 p_noise_avg=104380 SNR_real=43.2 dB SNR_tone=3.2 dB
+RX: wins=187501 ok=84 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1024229056 p20_avg=2067608704 p_noise_avg=95092 SNR_real=43.4 dB SNR_tone=3.1 dB
+FRAME OK seq=84 len=2 120 mg/dL [ok=85 fail=0 gaps=0]
+PKT,1878367,84,120,85,0,0
+RX: wins=188001 ok=85 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1174888960 p20_avg=2202468864 p_noise_avg=99749 SNR_real=43.4 dB SNR_tone=2.7 dB
+RX: wins=188501 ok=85 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1273670912 p20_avg=3000124416 p_noise_avg=76728 SNR_real=45.9 dB SNR_tone=3.7 dB
+RX: wins=189001 ok=85 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1168704384 p20_avg=3304424704 p_noise_avg=65592 SNR_real=47.0 dB SNR_tone=4.5 dB
+RX: wins=189501 ok=85 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1229507968 p20_avg=3172024832 p_noise_avg=62111 SNR_real=47.1 dB SNR_tone=4.1 dB
+RX: wins=190001 ok=85 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1285530624 p20_avg=2107614720 p_noise_avg=92600 SNR_real=43.6 dB SNR_tone=2.1 dB
+FRAME OK seq=85 len=2 120 mg/dL [ok=86 fail=0 gaps=0]
+PKT,1900427,85,120,86,0,0
+RX: wins=190501 ok=86 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=961770816 p20_avg=2228993280 p_noise_avg=108576 SNR_real=43.1 dB SNR_tone=3.7 dB
+RX: wins=191001 ok=86 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=927374208 p20_avg=2172090368 p_noise_avg=99177 SNR_real=43.4 dB SNR_tone=3.7 dB
+RX: wins=191501 ok=86 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=982461952 p20_avg=2062058240 p_noise_avg=107174 SNR_real=42.8 dB SNR_tone=3.2 dB
+RX: wins=192001 ok=86 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1029410560 p20_avg=2115390848 p_noise_avg=104318 SNR_real=43.1 dB SNR_tone=3.1 dB
+FRAME OK seq=86 len=2 120 mg/dL [ok=87 fail=0 gaps=0]
+PKT,1922487,86,120,87,0,0
+RX: wins=192501 ok=87 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1209239936 p20_avg=1982169088 p_noise_avg=106321 SNR_real=42.7 dB SNR_tone=2.1 dB
+RX: wins=193001 ok=87 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1023321792 p20_avg=2062468224 p_noise_avg=96863 SNR_real=43.3 dB SNR_tone=3.0 dB
+RX: wins=193501 ok=87 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1113255808 p20_avg=3089103104 p_noise_avg=71068 SNR_real=46.4 dB SNR_tone=4.4 dB
+RX: wins=194001 ok=87 fail=0 gaps=0 bit=1 st=2 sync=1
+    p10_avg=1367218432 p20_avg=3026010880 p_noise_avg=68822 SNR_real=46.4 dB SNR_tone=3.5 dB
+FRAME OK seq=87 len=2 120 mg/dL [ok=88 fail=0 gaps=0]
+PKT,1944547,87,120,88,0,0
+RX: wins=194501 ok=88 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1409290624 p20_avg=3082232064 p_noise_avg=62992 SNR_real=46.9 dB SNR_tone=3.4 dB
+RX: wins=195001 ok=88 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1186470016 p20_avg=3170153984 p_noise_avg=68334 SNR_real=46.7 dB SNR_tone=4.3 dB
+RX: wins=195501 ok=88 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1155310336 p20_avg=3180662784 p_noise_avg=67291 SNR_real=46.7 dB SNR_tone=4.4 dB
+RX: wins=196001 ok=88 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1259644416 p20_avg=3158859264 p_noise_avg=64865 SNR_real=46.9 dB SNR_tone=4.0 dB
+RX: wins=196501 ok=88 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1517795712 p20_avg=2963457280 p_noise_avg=62049 SNR_real=46.8 dB SNR_tone=2.9 dB
+FRAME OK seq=88 len=2 120 mg/dL [ok=89 fail=0 gaps=0]
+PKT,1966607,88,120,89,0,0
+RX: wins=197001 ok=89 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1086169600 p20_avg=3364157184 p_noise_avg=62888 SNR_real=47.3 dB SNR_tone=4.9 dB
+RX: wins=197501 ok=89 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1270838272 p20_avg=3002355200 p_noise_avg=67412 SNR_real=46.5 dB SNR_tone=3.7 dB
+RX: wins=198001 ok=89 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1169394944 p20_avg=3242639104 p_noise_avg=69207 SNR_real=46.7 dB SNR_tone=4.4 dB
+RX: wins=198501 ok=89 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1394934272 p20_avg=3022571264 p_noise_avg=67937 SNR_real=46.5 dB SNR_tone=3.4 dB
+FRAME OK seq=89 len=2 120 mg/dL [ok=90 fail=0 gaps=0]
+PKT,1988667,89,120,90,0,0
+RX: wins=199001 ok=90 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1458936576 p20_avg=2955003392 p_noise_avg=59991 SNR_real=46.9 dB SNR_tone=3.1 dB
+RX: wins=199501 ok=90 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1176435456 p20_avg=3204328704 p_noise_avg=67664 SNR_real=46.8 dB SNR_tone=4.4 dB
+RX: wins=200001 ok=90 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1221538816 p20_avg=3231279104 p_noise_avg=59144 SNR_real=47.4 dB SNR_tone=4.2 dB
+RX: wins=200501 ok=90 fail=0 gaps=0 bit=1 st=1 sync=1
+    p10_avg=1280729984 p20_avg=3218966272 p_noise_avg=67320 SNR_real=46.8 dB SNR_tone=4.0 dB
+RX: wins=201001 ok=90 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1414497920 p20_avg=2964016640 p_noise_avg=66214 SNR_real=46.5 dB SNR_tone=3.2 dB
+FRAME OK seq=90 len=2 120 mg/dL [ok=91 fail=0 gaps=0]
+PKT,2010737,90,120,91,0,0
+RX: wins=201501 ok=91 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1145859456 p20_avg=3214226944 p_noise_avg=61627 SNR_real=47.2 dB SNR_tone=4.5 dB
+RX: wins=202001 ok=91 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1319599104 p20_avg=3093577984 p_noise_avg=78740 SNR_real=45.9 dB SNR_tone=3.7 dB
+RX: wins=202501 ok=91 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1190693632 p20_avg=3275712000 p_noise_avg=68787 SNR_real=46.8 dB SNR_tone=4.4 dB
+RX: wins=203001 ok=91 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1349214592 p20_avg=3049408512 p_noise_avg=61518 SNR_real=47.0 dB SNR_tone=3.5 dB
+FRAME OK seq=91 len=2 120 mg/dL [ok=92 fail=0 gaps=0]
+PKT,2032797,91,120,92,0,0
+RX: wins=203501 ok=92 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1330710912 p20_avg=3053909504 p_noise_avg=69723 SNR_real=46.4 dB SNR_tone=3.6 dB
+RX: wins=204001 ok=92 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1223945856 p20_avg=3229256192 p_noise_avg=60786 SNR_real=47.3 dB SNR_tone=4.2 dB
+RX: wins=204501 ok=92 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1232336640 p20_avg=3222102272 p_noise_avg=75265 SNR_real=46.3 dB SNR_tone=4.2 dB
+RX: wins=205001 ok=92 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=1292731264 p20_avg=3086934784 p_noise_avg=56143 SNR_real=47.4 dB SNR_tone=3.8 dB
+FRAME OK seq=92 len=2 120 mg/dL [ok=93 fail=0 gaps=0]
+PKT,2054857,92,120,93,0,0
+RX: wins=205501 ok=93 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1306960384 p20_avg=3145127424 p_noise_avg=68892 SNR_real=46.6 dB SNR_tone=3.8 dB
+RX: wins=206001 ok=93 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1195465472 p20_avg=3308325120 p_noise_avg=60859 SNR_real=47.4 dB SNR_tone=4.4 dB
+RX: wins=206501 ok=93 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1322317568 p20_avg=3149024000 p_noise_avg=72866 SNR_real=46.4 dB SNR_tone=3.8 dB
+RX: wins=207001 ok=93 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1152004736 p20_avg=3228767232 p_noise_avg=57322 SNR_real=47.5 dB SNR_tone=4.5 dB
+RX: wins=207501 ok=93 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1526926976 p20_avg=2816175104 p_noise_avg=63168 SNR_real=46.5 dB SNR_tone=2.7 dB
+FRAME OK seq=93 len=2 120 mg/dL [ok=94 fail=0 gaps=0]
+PKT,2076917,93,120,94,0,0
+RX: wins=208001 ok=94 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1127554432 p20_avg=3355974656 p_noise_avg=51848 SNR_real=48.1 dB SNR_tone=4.7 dB
+RX: wins=208501 ok=94 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1235001216 p20_avg=3245777408 p_noise_avg=67931 SNR_real=46.8 dB SNR_tone=4.2 dB
+RX: wins=209001 ok=94 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1187091712 p20_avg=3168834048 p_noise_avg=61461 SNR_real=47.1 dB SNR_tone=4.3 dB
+RX: wins=209501 ok=94 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1332656128 p20_avg=3083806976 p_noise_avg=57794 SNR_real=47.3 dB SNR_tone=3.6 dB
+FRAME OK seq=94 len=2 120 mg/dL [ok=95 fail=0 gaps=0]
+PKT,2098977,94,120,95,0,0
+RX: wins=210001 ok=95 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1304831104 p20_avg=3255197440 p_noise_avg=57548 SNR_real=47.5 dB SNR_tone=4.0 dB
+RX: wins=210501 ok=95 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1204254720 p20_avg=3314090752 p_noise_avg=66276 SNR_real=47.0 dB SNR_tone=4.4 dB
+RX: wins=211001 ok=95 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1265101440 p20_avg=3085148928 p_noise_avg=61264 SNR_real=47.0 dB SNR_tone=3.9 dB
+RX: wins=211501 ok=95 fail=0 gaps=0 bit=0 st=1 sync=1
+    p10_avg=1107808896 p20_avg=3325110272 p_noise_avg=64382 SNR_real=47.1 dB SNR_tone=4.8 dB
+RX: wins=212001 ok=95 fail=0 gaps=0 bit=1 st=5 sync=1
+    p10_avg=1559030272 p20_avg=2937795840 p_noise_avg=60842 SNR_real=46.8 dB SNR_tone=2.8 dB
+FRAME OK seq=95 len=2 120 mg/dL [ok=96 fail=0 gaps=0]
+PKT,2121037,95,120,96,0,0
+RX: wins=212501 ok=96 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1199713664 p20_avg=3285325824 p_noise_avg=66469 SNR_real=46.9 dB SNR_tone=4.4 dB
+RX: wins=213001 ok=96 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1174018304 p20_avg=3223591424 p_noise_avg=59174 SNR_real=47.4 dB SNR_tone=4.4 dB
+RX: wins=213501 ok=96 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1211477760 p20_avg=3147367936 p_noise_avg=63399 SNR_real=47.0 dB SNR_tone=4.1 dB
+RX: wins=214001 ok=96 fail=0 gaps=0 bit=1 st=4 sync=1
+    p10_avg=1532088704 p20_avg=2932897280 p_noise_avg=60023 SNR_real=46.9 dB SNR_tone=2.8 dB
+FRAME OK seq=96 len=2 120 mg/dL [ok=97 fail=0 gaps=0]
+PKT,2143097,96,120,97,0,0
+RX: wins=214501 ok=97 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1289979648 p20_avg=3157592832 p_noise_avg=53243 SNR_real=47.7 dB SNR_tone=3.9 dB
+RX: wins=215001 ok=97 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1155175040 p20_avg=3249521408 p_noise_avg=62169 SNR_real=47.2 dB SNR_tone=4.5 dB
+RX: wins=215501 ok=97 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1100700928 p20_avg=2342733568 p_noise_avg=97767 SNR_real=43.8 dB SNR_tone=3.3 dB
+RX: wins=216001 ok=97 fail=0 gaps=0 bit=0 st=2 sync=1
+    p10_avg=982276096 p20_avg=2326740736 p_noise_avg=103891 SNR_real=43.5 dB SNR_tone=3.7 dB
+RX: wins=216501 ok=97 fail=0 gaps=0 bit=1 st=6 sync=1
+    p10_avg=1523338368 p20_avg=1759839872 p_noise_avg=98089 SNR_real=42.5 dB SNR_tone=0.6 dB
+FRAME OK seq=97 len=2 120 mg/dL [ok=98 fail=0 gaps=0]
+PKT,2165157,97,120,98,0,0
+RX: wins=217001 ok=98 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=958982720 p20_avg=2252959488 p_noise_avg=100500 SNR_real=43.5 dB SNR_tone=3.7 dB
+RX: wins=217501 ok=98 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=963089920 p20_avg=2252769792 p_noise_avg=100972 SNR_real=43.5 dB SNR_tone=3.7 dB
+RX: wins=218001 ok=98 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1075930368 p20_avg=2231748864 p_noise_avg=108754 SNR_real=43.1 dB SNR_tone=3.2 dB
+RX: wins=218501 ok=98 fail=0 gaps=0 bit=0 st=4 sync=1
+    p10_avg=1246839296 p20_avg=2075712128 p_noise_avg=92963 SNR_real=43.5 dB SNR_tone=2.2 dB
+FRAME OK seq=98 len=2 120 mg/dL [ok=99 fail=0 gaps=0]
+PKT,2187217,98,120,99,0,0
+RX: wins=219001 ok=99 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1072438144 p20_avg=2163195904 p_noise_avg=99257 SNR_real=43.4 dB SNR_tone=3.0 dB
+RX: wins=219501 ok=99 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=964287680 p20_avg=2225928192 p_noise_avg=103202 SNR_real=43.3 dB SNR_tone=3.6 dB
+RX: wins=220001 ok=99 fail=0 gaps=0 bit=0 st=0 sync=1
+    p10_avg=1100738048 p20_avg=2175662080 p_noise_avg=99861 SNR_real=43.4 dB SNR_tone=3.0 dB
+RX: wins=220501 ok=99 fail=0 gaps=0 bit=1 st=3 sync=1
+    p10_avg=1092194432 p20_avg=2236319744 p_noise_avg=91816 SNR_real=43.9 dB SNR_tone=3.1 dB
+FRAME OK seq=99 len=2 120 mg/dL [ok=100 fail=0 gaps=0]
+PKT,2209287,99,120,100,0,0
+RX: wins=221001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=1175880704 p20_avg=2128542720 p_noise_avg=89568 SNR_real=43.8 dB SNR_tone=2.6 dB
+RX: wins=221501 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=38727 p20_avg=3447997184 p_noise_avg=96258 SNR_real=45.5 dB SNR_tone=49.5 dB
+RX: wins=222001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=39342 p20_avg=4308942848 p_noise_avg=74744 SNR_real=47.6 dB SNR_tone=50.4 dB
+RX: wins=222501 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=42554 p20_avg=4882449408 p_noise_avg=53642 SNR_real=49.6 dB SNR_tone=50.6 dB
+RX: wins=223001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=41590 p20_avg=4863381504 p_noise_avg=52216 SNR_real=49.7 dB SNR_tone=50.7 dB
+RX: wins=223501 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=34253 p20_avg=4940023808 p_noise_avg=56134 SNR_real=49.4 dB SNR_tone=51.6 dB
+RX: wins=224001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=32710 p20_avg=4967598592 p_noise_avg=46279 SNR_real=50.3 dB SNR_tone=51.8 dB
+RX: wins=224501 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=39352 p20_avg=4980278784 p_noise_avg=47629 SNR_real=50.2 dB SNR_tone=51.0 dB
+RX: wins=225001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=39796 p20_avg=4963476480 p_noise_avg=50507 SNR_real=49.9 dB SNR_tone=51.0 dB
+RX: wins=225501 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=39735 p20_avg=5005370368 p_noise_avg=47404 SNR_real=50.2 dB SNR_tone=51.0 dB
+RX: wins=226001 ok=100 fail=0 gaps=0 bit=1 st=0 sync=1
+    p10_avg=41299 p20_avg=4981152256 p_noise_avg=51446 SNR_real=49.9 dB SNR_tone=50.8 dB
