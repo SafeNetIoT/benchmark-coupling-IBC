@@ -184,7 +184,12 @@ distances: five 25-minute BER sessions and one 100-frame packet run per
 combination, plus the ten power acquisitions. Between a galvanic and a
 capacitive run only the wiring changes; the firmware is identical.
 
-## Notes
+## License
 
+This repository (firmware, data, scripts, and documentation) is released
+under the **CC BY-NC-ND 4.0** license: you may download and share it for
+non-commercial purposes with attribution, but you may not use it
+commercially or distribute modified versions. See the `LICENSE` file.
 The ST HAL and CMSIS code in `Drivers/` is provided by STMicroelectronics
-under its own license terms (see the license files in those folders).
+under its own license terms (see the license files in those folders) and is
+not covered by this license.

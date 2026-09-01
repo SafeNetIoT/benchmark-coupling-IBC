@@ -1,0 +1,25 @@
+Copyright (c) 2026 The benchmark-coupling-IBC authors,
+SafeNetIoT Laboratory, University College London.
+
+This repository (firmware source code, measurement data, analysis
+scripts, and documentation) is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International license
+(CC BY-NC-ND 4.0).
+
+You are free to download and share this material for non-commercial
+purposes, including reproducing the published results for research
+and review, provided that you give appropriate credit and do not
+distribute modified versions.
+
+You may not use this material for commercial purposes, and you may
+not distribute derivative works based on it. No patent rights are
+granted by this license.
+
+The full license text is available at:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+Exception: the STMicroelectronics HAL and CMSIS components under the
+Drivers/ folders of the Transmitter and Receiver projects, and other
+STM32CubeMX-generated files, are provided by STMicroelectronics and
+ARM under their own license terms (see the license files in those
+folders). They are not covered by the license above.
