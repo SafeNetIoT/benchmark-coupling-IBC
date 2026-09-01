@@ -15,7 +15,6 @@ Usage:
 """
 
 import csv
-import math
 from pathlib import Path
 
 import matplotlib
@@ -43,7 +42,6 @@ for coupling, mod in CAMPAIGNS:
         continue
     plt.rcParams.update({"font.size": 8, "axes.linewidth": 0.6})
     fig, ax = plt.subplots(figsize=(3.5, 2.4), dpi=300)
-    top = 0.0
     for rate in (20, 40, 100):
         pts = sorted((c for c in sel if int(c["rate"]) == rate),
                      key=lambda c: int(c["dist"]))
@@ -52,7 +50,6 @@ for coupling, mod in CAMPAIGNS:
         d = [int(c["dist"]) for c in pts]
         y = [float(c["snr_mean"]) for c in pts]
         e = [float(c["snr_sd"]) for c in pts]
-        top = max(top, max(yy + ee for yy, ee in zip(y, e)))
         ax.errorbar(d, y, yerr=e, lw=1.1, color=COLOURS[rate],
                     linestyle=STYLES[rate], marker=MARKERS[rate],
                     ms=4, capsize=2, elinewidth=0.7,
@@ -68,7 +65,7 @@ for coupling, mod in CAMPAIGNS:
     ax.set_ylabel("SNR (dB)")
     ax.set_xticks([10, 20, 30])
     ax.set_xlim(7, 33)
-    ax.set_ylim(0, math.ceil(top) + 3)
+    ax.set_ylim(0, 60)   # common scale across the four campaigns
     ax.grid(True, lw=0.3, alpha=0.5)
     ax.legend(ncol=3, fontsize=7, frameon=False,
               loc="lower center", bbox_to_anchor=(0.5, 1.005),
